@@ -20,7 +20,7 @@ Rock Climbing whenever she can.
 Running with awesome minimal shoes. 
 Reading a Geek In Japan, Shantaram and Thinking Fast and Slow.   
 
-## Pass achievements 
+## Accomplishments 
 Here's the section where I'll post all the things/achievements that I consider worth remembering.
 
 I used to get depressed often because I would get into this dark rabbit holes of negative thoughts, feeling useless and unsuccesful. So this section is partiulary important to remind myself that is pointless to compare so much with others and focus on where I actually have arrived compared to years ago. It's a little self-motivation guide for Ly. 
