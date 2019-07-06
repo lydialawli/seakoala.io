@@ -5,6 +5,6 @@
     - [Sketches](docs/art/sketches.md)
 
 
-- Frugal life
+- **Frugal life**
     - [Minimal shoes](docs/minimalShoes.md)
     

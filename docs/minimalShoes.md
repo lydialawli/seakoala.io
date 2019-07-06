@@ -6,10 +6,14 @@ She then read [_Born to Run_](https://en.wikipedia.org/wiki/Born_to_Run:_A_Hidde
 
 
 
-
+## Making your own minimal shoes
 Here is Ly's attempt to simplify the steps in a visual way: 
 
 <img src="src/huaraches-instructions.png"
      alt="huaraches-instructions"
      style="float: left; margin-right: 10px;" />
+
+Download [here](https://github.com/lydialawli/lydialawli.github.io/blob/master/src/huaraches-instructions.pdf)
+
+
 
