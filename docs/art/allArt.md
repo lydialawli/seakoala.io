@@ -55,28 +55,42 @@
 20-12-2019 To support Venezuela with [Crypto Xmas](https://cryptoxmas.xyz/) project
 
 ![simple-dreamcatcher-black](../images/simple_dreamcatcher_black.jpg)
-20-9-2018   To supoort the awesome [Giveth](https://giveth.io/) team
+20-9-2018   To support the awesome [Giveth](https://giveth.io/) team
 ![simple-dreamcatcher-watercolor](../images/simple_dreamcatcher_watercolor_vertical.jpg)
-20-9-2018   To supoort the awesome [Giveth](https://giveth.io/) team
+20-9-2018   To support the awesome [Giveth](https://giveth.io/) team
 ![Giveth-dreamcatcher-white](../images/Giveth_dreamcatcher_white.jpg)
-20-9-2018   To supoort the awesome [Giveth](https://giveth.io/) team
+20-9-2018   To support the awesome [Giveth](https://giveth.io/) team
 ![Giveth-dreamcatcher-black](../images/Giveth_dreamcatcher_black.jpg)
-20-9-2018   To supoort the awesome [Giveth](https://giveth.io/) team
+20-9-2018   To support the awesome [Giveth](https://giveth.io/) team
 
 
 ![Aglow-kids](../images/aglowkids1.png)   
 29-10-2018
 ![Aglow-kids](../images/aglowkids2.jpg)   
 29-10-2018
-See this drawings in [AglowKids](http://www.aglowkids.com/)   
+See this drawings in [AglowKids](http://www.aglowkids.com/)  
 
-## 2017
+![3wordChallenge5](../images/3wordChallenge5.jpg)
+![3wordChallenge4](../images/3wordChallenge4.jpg)
+![3wordChallenge2](../images/3wordChallenge2.jpg)
+![3wordChallenge1](../images/3wordChallenge1.jpg)
+![3wordChallenge3](../images/3wordChallenge3.jpg)
+![xa-trust](../images/xa.jpg) 
+![3wordChallenge6](../images/3wordChallenge6.jpg)
+![wrap](../images/wrap.jpg) 
 
-![mickey-mouse](../images/mickeyMouse.jpg)
+![martin-karol-xmas](../images/martin-karol.png) 
 
-![bug](../images/bug.jpg)
+![igualada-xmas](../images/xmas2017.png) 
 
 ![calsots](../images/calsots.jpg)
+21-3-2018
+
+![mickey-mouse](../images/mickeyMouse.jpg)
+20-3-2018
 
 ![dailyChallenge](../images/dailyChallenge.jpg)
+8-3-2018
 
+![bug](../images/bug.jpg)
+5-3-2018    
