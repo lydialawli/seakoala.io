@@ -1,31 +1,32 @@
 ## Ly in 10 seconds
-I consider myself an artist, constant learner and an experience-seeker.
 
-Asian looking Spanish-Catalan active lady raised by beloved Hong Kong parents. 
+<img src="src/ly-perfectState.jpg"
+     alt="ly-perfect-state"
+     style="float: left; margin-right: 20px; width: 30%; border-radius: 50%;" />
 
-I am emotional, empathetic, active and odd.
+Ly is a constant dreamer and experience-seeker. 
+Loves creating things, learn and connect with other lovely souls out there. 
+Was born in Girona, Spain, but raised by beloved Hong Kong family.
+Ly is emotional, empathetic, active and odd.
 
-"Ly is shapeless, just like water" someone once said. I can relate to that because I feel that I am constantly adapting to my surroundings, but also have in mind the idea of equanimity, the law of impermanence.
+Shapeless, just like water. Will adapt to new surroundings, but is naturally going to change into something different.
 
-Have a masters degree in 2D 3D Animation production, not sure is relevant currently. 
+Studied her masters in 2D 3D Animation production and currently learning to program. 
+
 
 
 ## What is Ly doing now?
-Creating my own app called Evok. Trying to figure out whether software engineering is the way to go. 
-Drawing and illustrating life. 
-Rock Climbing whenever she can.
-Running with awesome minimal shoes. 
-Reading a Wisdom of Uncertainty, Shantaram, Thinking Fast and Slow.
-
+Creating her second mobile app called Evok. Trying to figure out whether software engineering is the way to go. 
+Ilustrating and testing different styles.
+In her free most favourite time, she is either rock climbing, reading, running or swimming.
 
 ## Why Seakoala? and why Ly?
-My name is Lydia, but Ly is my artist name. The reason is because it's short, precise and cute. 
-It's pronounced "Lee". Close friends and family call me Ly. 
+Ly is short for Lydia. 
+It's pronounced "Lee". Close friends and family call her Ly. 
 
-Seakoala is some joke that started together with my partner. 
-We discuss often about what a perfect world would look like in our eyes. One clear thing is that there would be amazing colors everywhere. We call it "Uniworld".
-I will write about it in more detail in the future, since I think its a pretty awesome concept. 
+Seakoala is some joke that started together with her partner. 
+They discuss often about what a perfect world would look like in our eyes. One clear thing is that there would be amazing colors everywhere. We call it "Uniworld". 
 
-And why on Earth I am a Seakoala? Well, I love water, and being immersed in it, anyone who knows me enough definitely is aware of it. And koala is because I like hugs and cuddles, who doesn't? 
+And what's up with Seakoala? Well, Ly loves water, and being immersed in it, anyone who knows her enough definitely is aware of it. And koala is because she like hugs and cuddles, who doesn't? 
 
-Ah, and I am an awesome sleeper too. 
+Ah, and she is a professional sleeper too. 

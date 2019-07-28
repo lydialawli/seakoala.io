@@ -13,7 +13,7 @@ After long on-going conversations, Ly and her partner decided to invest some tim
 The idea of having a van with all the basic needs in it; bathroom, bed, storage place, kitchen… was nice and a pretty awesome challenge for craftsman's like we thought we were.
 
 They wanted to build it themselves because well, bulding is learning, and learning is growing. 
-Plus, financially it was way cheaper than buying an already built camper van.
+Plus, it was way more economical than buying an already built camper van.
 
 But most importantly, they wanted freedom, the freedom of not being attached to a fixed place, investing in buying a house (at such a young age) and getting trapped with the mortgage, the concept of living with the most minimum necessary things, the feeling that having less was in fact, much more!
 
