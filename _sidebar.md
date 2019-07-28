@@ -2,8 +2,9 @@
     - [Who is Ly?](docs/aboutLy.md)
 
 - Creative lab
-    - [WOK](docs/art/sketches.md)
-    - [2019](docs/art/art2019.md)
+    - [sketches](docs/art/sketches.md)
+    - [art by year](docs/art/allArt.md)
+    - [portraits](docs/art/portraits.md)
 
 
 - **Frugal life**
