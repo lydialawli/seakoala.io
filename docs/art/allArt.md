@@ -70,14 +70,30 @@
 29-10-2018
 See this drawings in [AglowKids](http://www.aglowkids.com/)  
 
-![3wordChallenge5](../images/3wordChallenge5.jpg)
-![3wordChallenge4](../images/3wordChallenge4.jpg)
-![3wordChallenge2](../images/3wordChallenge2.jpg)
+
 ![3wordChallenge1](../images/3wordChallenge1.jpg)
+23-6-2018
+
 ![3wordChallenge3](../images/3wordChallenge3.jpg)
-![xa-trust](../images/xa.jpg) 
+2-6-2018
+
+![3wordChallenge5](../images/3wordChallenge5.jpg)
+1-6-2018
+
 ![3wordChallenge6](../images/3wordChallenge6.jpg)
+31-5-2018
+
+![xa-trust](../images/xa.jpg) 
+30-5-2018
+
+![3wordChallenge4](../images/3wordChallenge4.jpg)
+30-5-2018 
+
 ![wrap](../images/wrap.jpg) 
+30-5-2018  Watch [this](https://www.youtube.com/watch?v=bmYIgbj8ZMI)!!
+
+![3wordChallenge2](../images/3wordChallenge2.jpg)
+29-5-2018
 
 ![martin-karol-xmas](../images/martin-karol.png) 
 
@@ -94,3 +110,4 @@ See this drawings in [AglowKids](http://www.aglowkids.com/)
 
 ![bug](../images/bug.jpg)
 5-3-2018    
+
