@@ -18,7 +18,7 @@ Studied her masters in 2D 3D Animation production and currently learning to prog
 ## What is Ly doing now?
 Creating her second mobile app called [Evok](https://github.com/lydialawli/Evok). Trying to figure out whether software engineering is the way to go. 
 [Illustrating](docs/art/allArt.md) her thoughts out and testing different styles.
-In her free most favourite time, she is either rock climbing, reading, running or swimming.
+In her free most favourite time, she is either rock climbing, in the water or cuddling a tree. 
 
 ## Why Seakoala? and why Ly?
 Ly is short for Lydia. 
