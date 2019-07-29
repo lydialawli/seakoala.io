@@ -25,7 +25,7 @@ Ly is short for Lydia.
 It's pronounced "Lee". Close friends and family call her Ly. 
 
 Seakoala is some joke that started together with her partner. 
-They discuss often about what a perfect world would look like in our eyes. One clear thing is that there would be amazing colors everywhere. We call it "Uniworld". 
+They discuss often about what a perfect world would look like in their eyes. One certain thing is that there would be amazing colors everywhere. They call it "Uniworld". 
 
 And what's up with Seakoala 🐨? Well, Ly loves water, and being immersed in it, anyone who knows her enough definitely is aware of it. And koala is because she like hugs and cuddles, who doesn't? 
 
