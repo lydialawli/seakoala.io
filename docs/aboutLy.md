@@ -17,7 +17,7 @@ Studied her masters in 2D 3D Animation production and currently learning to prog
 
 ## What is Ly doing now?
 Creating her second mobile app called [Evok](https://github.com/lydialawli/Evok). Trying to figure out whether software engineering is the way to go. 
-[Ilustrating](http://localhost:3000/#/docs/art/allArt) and testing different styles.
+[Ilustrating](https://seakoala.io/#/docs/art/allArt) and testing different styles.
 In her free most favourite time, she is either rock climbing, reading, running or swimming.
 
 ## Why Seakoala? and why Ly?
