@@ -3,7 +3,7 @@
     - [journal](docs/journal.md)
 
 - Creative lab
-    - [illustrations](docs/art/allArt.md)
+    - [illustrations](docs/art/lyArt.md)
     - [portraits](docs/art/portraits.md)
 
 
