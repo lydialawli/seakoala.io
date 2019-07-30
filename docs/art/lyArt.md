@@ -126,3 +126,10 @@ See this drawings in [AglowKids](http://www.aglowkids.com/)
 
 20-9-2017
 
+---
+  
+<div style="text-align: center;">
+
+[Contact 🐨](docs/contact.md) for any questions or feedback 😍 
+
+</div>

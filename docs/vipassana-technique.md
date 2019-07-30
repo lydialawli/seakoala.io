@@ -45,3 +45,12 @@ IE. The technique does not teach you to follow any specific god or belief, it re
 #### links 
 
 - http://www.dhamma.org/ 
+
+
+---
+  
+<div style="text-align: center;">
+
+[Contact 🐨](docs/contact.md) for any questions or feedback 😍 
+
+</div>

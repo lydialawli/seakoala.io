@@ -9,3 +9,12 @@
 - [Xavi Vives](http://lab.xavivives.com/) experimenting long period fasting + stressing the body through exercice
 - [Dominic d'Agostino's interview on fasting and ketosis](https://tim.blog/2015/11/03/dominic-dagostino/)
 - Dr. Peter Attia
+
+
+---
+  
+<div style="text-align: center;">
+
+[Contact 🐨](docs/contact.md) for any questions or feedback 😍 
+
+</div>

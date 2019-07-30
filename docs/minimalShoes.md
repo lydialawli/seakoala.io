@@ -43,6 +43,9 @@ Here is a picture of the recent workshop hosted in the beautiful Nowhere fest.
 
 
 ---
+  
+<div style="text-align: center;">
 
-Contact [Ly](docs/contact.md) for any questions or feedback. She will be pleased to hear about you 😍
+[Contact 🐨](docs/contact.md) for any questions or feedback 😍 
 
+</div>
