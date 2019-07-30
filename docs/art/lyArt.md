@@ -78,7 +78,7 @@ See this drawings in [AglowKids](http://www.aglowkids.com/)
 2-6-2018
 
 ![3wordChallenge5](../images/3wordChallenge5.jpg)
-1-6-2018
+1-6-2018 
 
 ![3wordChallenge6](../images/3wordChallenge6.jpg)
 31-5-2018
@@ -95,10 +95,6 @@ See this drawings in [AglowKids](http://www.aglowkids.com/)
 ![3wordChallenge2](../images/3wordChallenge2.jpg)
 29-5-2018
 
-![martin-karol-xmas](../images/martin-karol.png) 
-
-![igualada-xmas](../images/xmas2017.png) 
-
 ![calsots](../images/calsots.jpg)
 21-3-2018
 
@@ -110,4 +106,23 @@ See this drawings in [AglowKids](http://www.aglowkids.com/)
 
 ![bug](../images/bug.jpg)
 5-3-2018    
+
+## 2017
+
+![martin-karol-xmas](../images/martin-karol.png) 
+20-12-2017
+
+![igualada-xmas](../images/xmas2017.png) 
+15-12-2017
+
+![catalan-tongue](../images/catalan-tongue.jpg)
+19-10-2017
+
+![dump-communication](../images/communication.jpg)
+
+23-9-2017
+
+![ly-running-sketch](../images/ly-running.jpg  ':size=300%') ![ly-running-refined](../images/ly-running-cropped.png  ':size=350%')
+
+20-9-2017
 

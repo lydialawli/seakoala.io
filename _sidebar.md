@@ -1,6 +1,7 @@
 - About 
     - [Who is Ly?](docs/aboutLy.md)
     - [journal](docs/journal.md)
+    - [contact](docs/contact.md)
 
 - Creative lab
     - [illustrations](docs/art/lyArt.md)

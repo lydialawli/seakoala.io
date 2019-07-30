@@ -4,20 +4,21 @@
 June 2017
 
 ### Context
- After many years of trying to please others and doing what Ly was "supposed" to do, she finally got the courage to stop, breathe and take things at her pace. Nice and slowly, but surely.
+ After many years of following what society had planned for her, Ly finally got the courage to stop, breathe and take things at her pace. Nice and slowly, but surely.
 
  In the summer of 2016, Ly finished her 3rd internship in Hong Kong, after a 4 years master degree in Animation. 
- While being immersed in the working routine of 8h job, taking several public transports to move around, the overwhelming lifestyle in the big city…  she felt a lot of responsibility to perform well without the actual space for it. 
+ While being immersed in the working routine of 8h job, taking several public transports in order to move around, the overwhelming lifestyle in the big city…  she felt a lot of responsibility to perform well without the actual space for it. 
 She started climbing. Met her beloved partner and quickly realised that she was unable to follow the path that she set in front of her, because well, there were more choices.
 
 After long on-going conversations, Ly and her partner decided to invest some time on the idea of living frugally and most importantly, off-grid.
 
 ### Motivation
-The idea of having a van with all the basic needs in it; bathroom, bed, storage place, kitchen… was nice and a pretty awesome challenge for craftsman's like they thought they were.
-
 Ly loved climbing, and exploring new places. A van would fullfill that desire in amazing ways. 
 
-It was important for them to build it instead of buying it done, as it would allow learning and growth.  
+The idea of having a van with all the basic needs in it; bathroom, bed, storage place, kitchen… was nice and a pretty awesome challenge for craftsman's like they thought they were.
+
+It was important for them to build it instead of buying one done, as it would allow them to learn and also customise it exactly the way they wanted it.
+
 Plus, it was more economical too.
 
 But most importantly, they wanted freedom, the freedom of not being attached to a fixed place, the concept of living with the most minimum necessary things, the feeling that having less was in fact, much more!
