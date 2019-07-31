@@ -120,7 +120,7 @@ The whole project ended up lasting a whole year (gee……………)
 - Prioritised other parts of life such as making money and family business
 - Lack of good tools 
 - Were unaware of the existence of electricity (on the farm) until 5 months later, so everything was done manually…
-- And well, due to countless trial fails and lack of experience 😅
+- And well, due to countless trial fails from lack of experience 😅
 
 ### But afterall...
 
@@ -153,3 +153,5 @@ The van is now called Orxata. The lovely creature that will take Ly and her love
 [Contact 🐨](docs/contact.md) for any questions or feedback 😍 
 
 </div>
+
+

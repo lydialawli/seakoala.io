@@ -4,15 +4,15 @@
 ## 2019
 
 ![Tokyo-Marylin](../images/Tokyo-Marylin.png)
-27-7-2019
+27-7-2019_____________Shibuya Crossing in Tokyo_____________
 
 ![universeLy](../images/universeLy.png)
 26-7-2019
 
 ![line-drawing-01](../images/line-drawing-01.jpg)
-16-6-2019
+16-6-2019_____________Line Art Tokyo Meetup_____________
 ![line-drawing-02](../images/line-drawing-02.jpg)
-16-6-2019
+16-6-2019_____________Line Art Tokyo Meetup_____________
 
 <div float="left" width="100%">
   <img src="docs/images/vocdoni-1.png" width="45%" />
@@ -20,7 +20,7 @@
   <img src="docs/images/vocdoni-3.png" width="60%" /> 
 </div>
 
-7-6-2019 See this drawings in [Vocdoni](https://vocdoni.io/) 
+7-6-2019_____________See this drawings in [Vocdoni](https://vocdoni.io/)(awesome decentralised voting platform!) 
 
 ![cyborg-01](../images/cyborg-01.png)
 21-5-2019
@@ -38,10 +38,10 @@
 25-3-2019
 
 ![Fatou-Matta](../images/FatouMatta.png)
-12-3-2019
+12-3-2019_____________My dear friend Fatou from The Gambia_____________
 
 ![Aja](../images/aja.png)   
-
+10-3-2019_____________Cute 9 year old gambian girl_____________
 
 ## 2018
 
@@ -52,16 +52,16 @@
   <img src="docs/images/cryptoXmas4.png" width="40%" /> 
 </div>
 
-20-12-2019 To support Venezuela with [Crypto Xmas](https://cryptoxmas.xyz/) project
+20-12-2019_____________To support Venezuela with [Crypto Xmas](https://cryptoxmas.xyz/) project_____________
 
 ![simple-dreamcatcher-black](../images/simple_dreamcatcher_black.jpg)
-20-9-2018   To support the awesome [Giveth](https://giveth.io/) team
+20-9-2018_____________To support the awesome [Giveth](https://giveth.io/) team_____________
 ![simple-dreamcatcher-watercolor](../images/simple_dreamcatcher_watercolor_vertical.jpg)
-20-9-2018   To support the awesome [Giveth](https://giveth.io/) team
+20-9-2018_____________To support the awesome [Giveth](https://giveth.io/) team_____________
 ![Giveth-dreamcatcher-white](../images/Giveth_dreamcatcher_white.jpg)
-20-9-2018   To support the awesome [Giveth](https://giveth.io/) team
+20-9-2018_____________To support the awesome [Giveth](https://giveth.io/) team_____________
 ![Giveth-dreamcatcher-black](../images/Giveth_dreamcatcher_black.jpg)
-20-9-2018   To support the awesome [Giveth](https://giveth.io/) team
+20-9-2018_____________To support the awesome [Giveth](https://giveth.io/) team_____________
 
 
 ![Aglow-kids](../images/aglowkids1.png)   
@@ -72,16 +72,16 @@ See this drawings in [AglowKids](http://www.aglowkids.com/)
 
 
 ![3wordChallenge1](../images/3wordChallenge1.jpg)
-23-6-2018
+23-6-2018___________________________3 words Challenge___________________________
 
 ![3wordChallenge3](../images/3wordChallenge3.jpg)
-2-6-2018
+2-6-2018___________________________3 words Challenge___________________________
 
 ![3wordChallenge5](../images/3wordChallenge5.jpg)
-1-6-2018 
+1-6-2018___________________________3 words Challenge___________________________
 
 ![3wordChallenge6](../images/3wordChallenge6.jpg)
-31-5-2018
+31-5-2018___________________________3 words Challenge___________________________
 
 ![xa-trust](../images/xa.jpg) 
 30-5-2018
