@@ -1,7 +1,10 @@
 # FASTING
 
 ### Personal experience
-- I have experienced fasting for up to 30 hours. The feeling of starvation and craving had definitely dicreased by then, the body starts going slower, like it's entering in save energy mode. 
+- Ly has experienced fasting for up to 30 hours. The feeling of starvation and craving had definitely dicreased by then, the body starts going slower, like it's entering in save energy mode. 
+
+- Ly is interested in learning the power and benefits of **intermitten fasting** as part of an everyday life routine.
+Being in a ketogenic state and doing intermitten fasting is a well-known and effective combination. But Ly has yet to research properly on that. 
 
 
 

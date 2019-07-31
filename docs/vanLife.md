@@ -96,6 +96,8 @@ Global steps were:
 - cover floor with nice wooden panels (parquets)
 - throw a fucking party 
 
+(more info about the process coming soon...)
+
 ## Overall 
 
 ### Original goals and assumptions
