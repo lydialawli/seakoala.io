@@ -75,7 +75,7 @@ Here are some renders done in Rhinoceros 3D:
 ## Building process
 ![orxata6](/images/orxata6.jpg ) 
 
-Global steps were:
+Steps overview:
 - cut and position windows (3 in total)
 - stick main structure
 - make holes on the ceiling (to pass cables for solar panels)
