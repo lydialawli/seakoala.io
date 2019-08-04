@@ -1,5 +1,5 @@
 - About 
-    - [Who is Ly?](docs/aboutLy.md)
+    - [hho is Ly?](docs/aboutLy.md)
     - [journal](docs/journal.md)
     - [contact](docs/contact.md)
 

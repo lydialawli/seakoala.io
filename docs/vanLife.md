@@ -31,7 +31,7 @@ But most importantly, they wanted freedom, the freedom of not being attached to 
 #### Getting the van
 
 ![orxata1](/images/orxata1.png ) 
-Ly’s partner went ahead to Valencia and picked up a second-hand **Citroen Jumper**. The tallest and largest they could have found. And the one that did not look to obvious that someone would be living there (as parking in a city was something they had planned to do). 
+Ly’s partner went ahead to Valencia and picked up a second-hand **Citroen Jumper**. The tallest and largest they could have found. And the one that did not look too obvious that someone would be living there (as parking in a city was something they had planned to do). 
 
 #### Setup workspace
 Ly and her family had this property in a village close to Girona, where they had a small building (not really a proper house) and that served the job just fine. 
