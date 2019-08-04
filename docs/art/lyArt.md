@@ -119,12 +119,17 @@ See this drawings in [AglowKids](http://www.aglowkids.com/)
 19-10-2017
 
 ![dump-communication](../images/communication.jpg)
-
 23-9-2017
 
 ![ly-running-sketch](../images/ly-running.jpg  ':size=300%') ![ly-running-refined](../images/ly-running-cropped.png  ':size=350%')
 
 20-9-2017
+
+![open-head-man](../images/open-head-man.jpg)
+
+
+![greek-sculpture](../images/sculpture.jpg)
+
 
 ---
   
