@@ -43,6 +43,8 @@
 ![Aja](../images/aja.png)   
 10-3-2019_____________Cute 9 year old gambian girl_____________
 
+![xa-ly-da](../images/xa-ly-da.png) 
+
 ## 2018
 
 <div float="left" width="100%">

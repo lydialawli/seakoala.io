@@ -22,3 +22,8 @@ body {
 .sidebar ul li a{
     font-size: 1em;
 }
+
+.nav-secondary {
+    margin: -12px 0 6px;
+    display: none;
+}
