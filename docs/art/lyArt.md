@@ -3,6 +3,9 @@
 
 ## 2019
 
+![cute-band](../images/cute-band.png) 
+6-8-2019
+
 ![Tokyo-Marylin](../images/Tokyo-Marylin.png)
 27-7-2019_____________Shibuya Crossing in Tokyo_____________
 
