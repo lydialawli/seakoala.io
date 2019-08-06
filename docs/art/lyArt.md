@@ -3,6 +3,10 @@
 
 ## 2019
 
+![monster1](../images/monster1.png ':size=250%') ![monster2](../images/monster2.png ':size=250%') ![monster3](../images/monster3.png ':size=250%') 
+
+6-8-2019
+
 ![cute-band](../images/cute-band.png) 
 6-8-2019
 
