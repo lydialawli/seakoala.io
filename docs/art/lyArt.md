@@ -132,6 +132,9 @@ See this drawings in [AglowKids](http://www.aglowkids.com/)
 
 ![open-head-man](../images/open-head-man.jpg)
 
+![universe-man](../images/universe-man.jpg)
+
+![waves](../images/waves.jpg)
 
 ![greek-sculpture](../images/sculpture.jpg)
 
