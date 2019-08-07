@@ -4,9 +4,7 @@ About
 - [contact](docs/contact.md)
 
 Creative lab
-- [illustrations](docs/art/lyArt.md)
-- [portraits](docs/art/portraits.md)
-
+- [illustrations](docs/art/illustrations.md)
 
 Frugal life
 - [minimal shoes](docs/minimalShoes.md)
