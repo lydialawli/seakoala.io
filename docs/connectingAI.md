@@ -3,8 +3,8 @@
 **28 sep 2019**
 
 Funnily, if you ask almost anyone on this planet "What is AI? what is Artificial Intelligence?", most of them will have an accurate subjective answer, whether it's in actual technical truth, or as an abstract perspective. Some know one part, other's know other parts, and some others even might know both... Whichever part it is, everyone can apparently grasp a minimum understanding of what AI should be or is. 
-The hows of why they might know it, or think that they do is through the influence of other people, like parents, friends or through entertainment stuff like TV, comics, the CypherPunks, books!...
-And all of them seem to be true!
+The hows of why they might know it, or think that they do is through the influence of other people, like parents, friends or through entertainment stuff like TV, comics, articles, the CypherPunks, books!...
+And all of them seem to speak about the truth!
 
 But however smart anyone is, it seems tricky to answer this very fundamental question about it.
 "But how did it all start?"
@@ -13,7 +13,7 @@ But however smart anyone is, it seems tricky to answer this very fundamental que
  Anyhow, so... "When is it? when is it that it all started?"... `¯\_(ツ)_/¯`
 The even more scientifically geeky ones would say, "well yea, that kind of thing, right when the Big Bang happened...or even further older than that!...ehem..." `¯\_(ツ)_/¯`
 
-Okay, the next group of type of people (the more abstract/philosophically/stoned/hippie/spiritual kind of people) would say: "well, Plato first introduced the world to this " " concept and then this guy named John something the third borrowed his idea and passed it onto the next and the next generation of kids and finally after a few centuries later, yea, here we are. With the goddamn AI. You get it?
+Okay, the next group of type of people (the more abstract/philosophically/hippie/spiritual kind of people) would say: "well, Plato first introduced the world to this " " concept and then this guy named John something the third borrowed his idea and passed it onto the next and the next generation of kids and finally after a few centuries later, yea, here we are. With the goddamn AI. You get it?
 And other philosophers/abstract thinkers would argue that it was with this guy some earlier centuries before or after...
 
 And so the discussion goes on and on. Neverending arguments againts the opponents perspective to when it actually fucking happened...
