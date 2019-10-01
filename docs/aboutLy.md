@@ -14,7 +14,6 @@ Shapeless, just like water. Will adapt to new surroundings, but is naturally goi
 Studied her masters in 2D 3D Animation production and currently learning to program. 
 
 
-
 ## What is Ly doing now?
 Creating her second mobile app called [Evok](https://github.com/lydialawli/Evok). Trying to figure out whether software engineering is the way to go. 
 [Illustrating](docs/art/illustrations.md) her thoughts out and testing different styles.
