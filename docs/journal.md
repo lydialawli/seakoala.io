@@ -1,17 +1,17 @@
-
 # Ly's Journal
 
-## 2019
+---
+<!-- ## 2019
 
 --- 
 
-[japan](japan.md ':include')
+[japan](/journal/japan.md ':include')
 
----
+--- -->
 
-[vipassana](vipassana-technique.md ':include')
+[vipassana](/journal/vipassana-technique.md ':include')
 
----
+<!-- ---
 
 ## 2018
 
@@ -19,7 +19,7 @@
 
 ---
 
-[CaminoSantiago](caminoSantiago.md ':include')
+[CaminoSantiago](/journal/caminoSantiago.md ':include')
 
----
+--- -->
 

@@ -1,1 +1,0 @@
-<img src="https://img.icons8.com/doodle/48/000000/mail-with-wings.png"> : ly@seakoala.io

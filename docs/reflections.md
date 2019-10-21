@@ -1,13 +1,10 @@
-Silly but trully felt reflections from Ly. Better out than in, right? 
-Hope anyone out there finds them interesting and/or useful.
+# Reflections  
+---
 
+[one-man-short-story](/reflections/oneManShortStory.md ':include')
 
 ---
 
-[daytime&moontime](daytimeMoontime.md ':include')
-
----
-
-[connectingAI](connectingAI.md ':include')
+[connectingAI](/reflections/connectingAI.md ':include')
 
 ---

@@ -1,5 +1,5 @@
 ## My journey into van life 
-![orxata4](/images/orxata4.jpg )
+![orxata4](../images/orxata4.jpg )
 
 June 2017
 
@@ -30,7 +30,7 @@ But most importantly, they wanted freedom, the freedom of not being attached to 
 
 #### Getting the van
 
-![orxata1](/images/orxata1.png ) 
+![orxata1](../images/orxata1.png ) 
 Ly’s partner went ahead to Valencia and picked up a second-hand **Citroen Jumper**. The tallest and largest they could have found. And the one that did not look too obvious that someone would be living there (as parking in a city was something they had planned to do). 
 
 #### Setup workspace
@@ -47,7 +47,7 @@ Many parts of the metal were rusted and basically, not in an adequate condition 
 So, anyways, they ended up spending a month and a half just "resurecting" the van. Madre mia!
 
 
-![orxata2](/images/orxata2.jpg ':size=350%') ![orxata5](/images/orxata5.jpg ':size=350%') 
+![orxata2](../images/orxata2.jpg ':size=350%') ![orxata5](../images/orxata5.jpg ':size=350%') 
 
 
 ### Brainstorming and design
@@ -73,7 +73,7 @@ Here are some renders done in Rhinoceros 3D:
 - a sink with proper drainage system 
 
 ## Building process
-![orxata6](/images/orxata6.jpg ) 
+![orxata6](../images/orxata6.jpg ) 
 
 Steps overview:
 - cut and position windows (3 in total)
@@ -127,7 +127,7 @@ The whole project ended up lasting a whole year (gee……………)
 It was such a long learning process for Ly. 
 Not only from acquiring the skills of a craftsman, learning how to utilise certain tools, designing and playing with the creation of unexisting furniture, dealing with tough conditions...
 
-![orxata3](/images/orxata3.jpg ) 
+![orxata3](../images/orxata3.jpg ) 
 
 In fact, the hardest, most intense yet powerful experience was the commitment to make this project happen with a person who she’d met less than a few months before. And being determined to go through it until it was done.
 Building a creative project while learning to live 24/7 with someone else, required a lot of communication skills, one that Ly was not really good at.
@@ -150,7 +150,7 @@ The van is now called Orxata. The lovely creature that will take Ly and her love
   
 <div style="text-align: center;">
 
-[Contact 🐨](docs/contact.md) for any questions or feedback 😍 
+[Contact 🐨](docs/aboutLy.md) for any questions or feedback 😍 
 
 </div>
 
