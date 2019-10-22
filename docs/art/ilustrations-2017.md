@@ -1,61 +1,59 @@
-## 2017
 
----
 
-#### Xmas card for Martin & Karol
+### Xmas card for Martin & Karol
 
 ![martin-karol-xmas](../images/martin-karol.png) 
 20-12-2017
 
 ---
 
-#### Oh my Jesus! postcard gift
+### Oh my Jesus! postcard gift
 
 ![igualada-xmas](../images/xmas2017.png) 
 15-12-2017
 
 ---
 
-#### Llengua Catalana
+### Llengua Catalana + Freedom of Speech
 
 ![catalan-tongue](../images/catalan-tongue.jpg)
 19-10-2017
 
 ---
 
-#### Dump vs Smart communication
+### Dump vs Smart communication
 
-![dump-communication](../images/communication.jpg)
+![dump-communication](../images/communication.jpg)</br>
 23-9-2017
 
 ---
 
-#### Ly's running look
+### Born to Run?
 
-![ly-running-sketch](../images/ly-running.jpg  ':size=300%') ![ly-running-refined](../images/ly-running-cropped.png  ':size=350%')
+![ly-running-sketch](../images/ly-running.jpg  ':size=300%') ![ly-running-refined](../images/ly-running-cropped.png  ':size=350%')</br>
 20-9-2017
 
 ---
 
-#### What's in his head?
+### What's in his head?
 
 ![open-head-man](../images/open-head-man.jpg)
 
 ---
 
-#### Universal Man (Test)
+### Man in Universe
 
 ![universe-man](../images/universe-man.jpg)
 
 ---
 
-#### Watercolor Waves
+### Watercolor Waves
 
 ![waves](../images/waves.jpg)
 
 ---
 
-#### Carbon drawing of Unheaded body 
+### Carbon drawing of Unheaded body 
 
 ![greek-sculpture](../images/sculpture.jpg)
 

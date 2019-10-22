@@ -1,7 +1,7 @@
 # Vipassanā
 2 march 2019
 
-#### Context
+---
 
 Ly went to her first 10 days meditation retreat on February 2019. Near Barcelona.
 

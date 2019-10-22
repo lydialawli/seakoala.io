@@ -1,4 +1,4 @@
-# How AI happened 
+# Origins of AI
 
 **28 sep 2019**
 

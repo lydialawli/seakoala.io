@@ -1,9 +1,13 @@
-## My journey into van life 
-![orxata4](../images/orxata4.jpg )
+# My journey into van life 
 
 June 2017
 
-### Context
+---
+
+![orxata4](../images/orxata4.jpg )
+
+
+## Introduction
  After many years of following what society had planned for her, Ly finally got the courage to stop, breathe and take things at her pace. Nice and slowly, but surely.
 
  In the summer of 2016, Ly finished her 3rd internship in Hong Kong, after a 4 years master degree in Animation. 
@@ -12,7 +16,7 @@ She started climbing. Met her beloved partner and quickly realised that she was 
 
 After long on-going conversations, Ly and her partner decided to invest some time on the idea of living frugally and most importantly, off-grid.
 
-### Motivation
+## Motivation
 Ly loved climbing, and exploring new places. A van would fullfill that desire in amazing ways. 
 
 The idea of having a van with all the basic needs in it; bathroom, bed, storage place, kitchen… was nice and a pretty awesome challenge for craftsman's like they thought they were.
@@ -24,20 +28,19 @@ Plus, it was more economical too.
 But most importantly, they wanted freedom, the freedom of not being attached to a fixed place, the concept of living with the most minimum necessary things, the feeling that having less was in fact, much more!
 
 
-## Before taking off
+## Preparation
 
-### Preparation face
-
-#### Getting the van
+### Getting the van
 
 ![orxata1](../images/orxata1.png ) 
-Ly’s partner went ahead to Valencia and picked up a second-hand **Citroen Jumper**. The tallest and largest they could have found. And the one that did not look too obvious that someone would be living there (as parking in a city was something they had planned to do). 
+Ly’s partner went ahead to Valencia and picked up a second-hand **Citroen Jumper**. The tallest and largest they could have found. </br>
+They intentionally chose this boring-looking cargo van because it looked much more discrete and camouflaged.
 
-#### Setup workspace
+### Setup workspace
 Ly and her family had this property in a village close to Girona, where they had a small building (not really a proper house) and that served the job just fine. 
 Though the place was ideal as far as space and isolation wise, it took extra effort to get it ready for being a "decent" work space. Basically then, they spent their first weeks cleaning and fixing the terrain (calling the "farm" from now on) instead of focusing on the van.
 
-#### Buggy fithy van
+### Buggy fithy van
 As part of the risk of buying a second-hand vehicle, is well, the amount of rubbish and broken pieces that the buyer would hide from its advertisement (in order to get rid of it asap). It was undetectable through the images of the ad.
 
 They found forks and knives and all kind of weird things and dead creatures, plus a lot of dirt… 
@@ -72,7 +75,7 @@ Here are some renders done in Rhinoceros 3D:
 - popup table (for dinning for instance)
 - a sink with proper drainage system 
 
-## Building process
+## Construction
 ![orxata6](../images/orxata6.jpg ) 
 
 Steps overview:

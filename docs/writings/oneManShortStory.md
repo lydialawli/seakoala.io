@@ -1,7 +1,8 @@
 # One man's short story
 
-**1 oct 2019**
+1 oct 2019
 
+---
 #### INSTANCE 1: existence/ just being
 <img src="src/suntime.png"
      alt="suntime"
@@ -80,7 +81,7 @@ Man’s mind, together with the memory of the past experiences and learnings, ar
 </br>
 </br>
 </br>
-#### INSTANCE 6: craziness of life
+#### INSTANCE 6: desires
 <img src="src/suntime.png"
      alt="suntime"
      style="float: left; margin-right: 20px; width: 20%; border-radius: 50%;" />
@@ -109,3 +110,14 @@ Man is aware that this is and will always be his innate way of being. </br>
 Man knows about roller coasters and the law of impermanence, of equanimity. 
 
 Man is alive, he exists, he knows, he accepts. 
+
+
+---
+  
+<div style="text-align: center;">
+
+[Contact 🐨](docs/aboutLy.md) for any questions or feedback 😍 
+
+</div>
+
+
