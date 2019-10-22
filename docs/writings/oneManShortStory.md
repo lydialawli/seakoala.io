@@ -92,7 +92,7 @@ Man challenges himself to predict the future a few steps ahead: he designs the p
 Man starts writing down the sequence and then making sure to test them out and keep feeding his ego by proving himself he is right. </br>
 Man designs an algorithm that will predict the future without his help. Man automates the system. </br>
 Man is now free from needing to know about the future and constantly calculating the next few steps, as his fancy tech, the AI will let him know. </br>
-Man is bored, man feels useless, man is not proud of himself. Man is depressed and hopeless.</br>
+Man is bored, man feels useless, man is not proud of himself anymore. Man is depressed and hopeless.</br>
 Man cries dry tears.</br>
 Man feels like dying is better. </br>
 </br>
