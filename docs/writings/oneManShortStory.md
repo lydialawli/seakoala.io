@@ -69,7 +69,7 @@ Hence Man is super excited now, starts to want to know more!
 </br>
 </br>
 </br>
-#### INSTANCE 5: neural network
+#### INSTANCE 6: neural network
 <img src="src/moontime.png"
      alt="moontime"
      style="float: left; margin-right: 20px; width: 20%; border-radius: 50%;" />
@@ -81,7 +81,7 @@ Man’s mind, together with the memory of the past experiences and learnings, ar
 </br>
 </br>
 </br>
-#### INSTANCE 6: desires
+#### INSTANCE 7: desires
 <img src="src/suntime.png"
      alt="suntime"
      style="float: left; margin-right: 20px; width: 20%; border-radius: 50%;" />
@@ -98,7 +98,7 @@ Man feels like dying is better. </br>
 </br>
 </br>
 </br>
-#### INSTANCE 7: mindfulness 
+#### INSTANCE 8: enlightment 
 <img src="src/moontime.png"
      alt="moontime"
      style="float: left; margin-right: 20px; width: 20%; border-radius: 50%;" />
