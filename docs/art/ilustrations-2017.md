@@ -53,7 +53,7 @@
 
 ---
 
-### Carbon drawing of Unheaded body 
+### Charcoal drawing of Unheaded body 
 
 ![greek-sculpture](../images/sculpture.jpg)
 

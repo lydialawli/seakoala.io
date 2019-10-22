@@ -10,6 +10,7 @@ Writing
 - [one man's short story](docs/writings/oneManShortStory.md)
 <!-- - [origins of AI](docs/writings/originsAI.md) -->
 - [minimal shoes](docs/writings/minimalShoes.md)
+- [the Gambia](docs/writings/gambia.md)
 - [vipassana](docs/writings/vipassana.md)
 - [journey into van life](docs/writings/vanLife.md)
 <!-- - [fasting](docs/writings/fasting.md) -->
