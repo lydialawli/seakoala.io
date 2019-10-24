@@ -1,12 +1,12 @@
 About 
 - [who is Ly?](docs/aboutLy.md)
 
-Illustrations
+Visuals
 -  [2019](docs/art/ilustrations-2019.md) 
 -  [2018](docs/art/ilustrations-2018.md) 
 -  [2017](docs/art/ilustrations-2017.md) 
 
-Writing
+Words
 - [one man's short story](docs/writings/oneManShortStory.md)
 <!-- - [reflecting on the origins of AI](docs/writings/originsAI.md) -->
 - [minimal shoes](docs/writings/minimalShoes.md)
@@ -15,6 +15,8 @@ Writing
 - [journey into van life](docs/writings/vanLife.md)
 <!-- - [fasting](docs/writings/fasting.md) -->
 
+Code
+- coming soon...
 
 
 <!-- 
