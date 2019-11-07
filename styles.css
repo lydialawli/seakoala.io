@@ -27,3 +27,8 @@ body {
     margin: -12px 0 6px;
     display: none;
 }
+
+.sidebar .sidebar-nav {
+    line-height: 1.2em; 
+    padding-bottom: 0;
+}

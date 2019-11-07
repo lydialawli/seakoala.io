@@ -8,7 +8,7 @@ Built and released a React Native application to Play Store within 30 days.
 
 Picked a fairly simple product: a coin and a dice app, provides a random an answer after pressing one of them.
 
-Go to [Google Play Store](https://play.google.com/store/apps/details?id=eth.uniworld.UpToYou) and download it for free!
+~~Go to [Play Store](https://play.google.com/store/apps/details?id=eth.uniworld.UpToYou) and download it for free!~~
 
 **UPDATE November 2019** ==> the app has been removed from Playstore just recently. I still need to figure out this issue.
 
