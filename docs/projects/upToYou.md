@@ -14,7 +14,7 @@ Picked a fairly simple product: a coin and a dice app, provides a random an answ
 
 ## Context
 
-I was a **beginner** in the world of programming. All I had done before starting this project was some Codeacademy online courses.
+I was a **beginner** in the world of programming. All I had done before starting this project was some online courses:
 
 - [Codecademy - _learn Javascript_](https://www.codecademy.com/learn/learn-javascript)
 - [Codecademy -_learn ReactJS_](https://www.codecademy.com/learn/react-101)  
@@ -56,3 +56,8 @@ One month later.. tadah! Mission accomplished, happy me. 🎉
 
 I want to work on a newer version of it, as it has a few things to improve for sure.
 But currently working on [Evok](https://github.com/lydialawli/Evok), my next mobile app after Up To You :)
+
+
+---
+
+Link to the github repo [here](https://github.com/lydialawli/up-to-you)
