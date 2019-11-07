@@ -1,5 +1,5 @@
 About 
-- [who is Ly?](docs/aboutLy.md)
+- [Ly, who?](docs/aboutLy.md)
 
 Visuals
 -  [2019](docs/art/ilustrations-2019.md) 
@@ -15,9 +15,9 @@ Words
 - [journey into van life](docs/writings/vanLife.md)
 <!-- - [fasting](docs/writings/fasting.md) -->
 
-Code
-- coming soon...
+Projects
 
+- [<img src="docs/projects/assets/icon.png" style="width: 22px">  Up to You -Coin & Dice app](docs/projects/upToYou.md)
 
 <!-- 
 About 

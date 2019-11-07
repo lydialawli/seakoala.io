@@ -1,4 +1,4 @@
-# Ly in 10 seconds
+## Ly in 10 seconds
 
 <img src="src/ly-perfectState.jpg"
      alt="ly-perfect-state"
@@ -6,11 +6,11 @@
 
 Spanish asian-looking person who was raised by Hong Kong family.
 
-Studied her masters in 2D 3D Animation production, and just finished a 2 month Fullstack developer bootcamp.</br>
+Studied her masters in 2D 3D Animation Production, and just finished a 2 month Fullstack Developer bootcamp.
 
-Started exploring programming in 2016.</br>
+Started exploring programming in 2016.
 
-Fan of rock climbing, trail running, self-expression, books and introspective knowledge.</br>
+Fan of rock climbing, trail running, self-expression, books and introspective knowledge (and a bunch of other stuff).
 
 Enjoys  [illustrating](docs/art/ilustrations-2019.md)  life from time to time.
 
@@ -24,4 +24,4 @@ Values openness, integrity and humbleness.
 
 ## Contact Ly for any random reason
 
-<img src="https://img.icons8.com/doodle/48/000000/mail-with-wings.png"> : ly@seakoala.io
+<img src="https://img.icons8.com/doodle/48/000000/mail-with-wings.png" style="width: 22px">  ly@seakoala.io
