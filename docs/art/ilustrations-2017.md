@@ -1,5 +1,4 @@
 
-
 ### Xmas card for Martin & Karol
 
 ![martin-karol-xmas](../images/martin-karol.png) 
@@ -53,16 +52,19 @@
 
 ---
 
-### Charcoal drawing of Unheaded body 
+### Charcoal drawing of Unheaded body
 
 ![greek-sculpture](../images/sculpture.jpg)
 
 
 ---
+
+### Marga
+![marga](../images/marga.png)
   
 <div style="text-align: center;">
 
-[Contact 🐨](docs/contact.md) for any questions or feedback 😍 
+[Contact 🐨](docs/contact.md) for any questions or feedback 😍
 
 </div>
 

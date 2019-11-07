@@ -95,12 +95,13 @@
 
 ---
 
-### A coin & dice for [ Up To You Mobile App](../docs/projects/upToYou.md)
+### A coin & dice for [ Up To You- mobile app](../docs/projects/upToYou.md)
 
 <div float="left" width="100%">
   <img src="docs/images/coin.gif" width="40%" />
   <img src="docs/images/dice-medium.gif" width="40%" /> 
 </div>
+20-4-2018
 
 ---
 
