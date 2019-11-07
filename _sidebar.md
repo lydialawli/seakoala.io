@@ -16,6 +16,7 @@ Words
 <!-- - [fasting](docs/writings/fasting.md) -->
 
 Projects
+
+- [Airbnb replica](docs/projects/airbnb.md)
 - [Evok](docs/projects/evok.md)
 - [Up to You](docs/projects/upToYou.md)
-

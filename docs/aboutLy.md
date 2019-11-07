@@ -10,7 +10,7 @@ Studied her masters in 2D 3D Animation Production, and just finished a 2 month F
 
 Started exploring programming in 2016.
 
-Fan of rock climbing, trail running, self-expression, books and introspective knowledge (and a bunch of other stuff).
+Fan of rock climbing, trail running, self-expression, books and introspective knowledge (and a bunch of other stuff).  
 
 Enjoys  [illustrating](docs/art/ilustrations-2019.md)  life from time to time.
 
