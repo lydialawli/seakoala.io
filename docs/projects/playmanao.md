@@ -6,7 +6,8 @@ _Oct 2019_
 
 Play Manao is a cross platform mobile app that provides a growing list of **interactive games in the real world** for everyone to join and play.
 
-For more detailed explanation go [here](/docs/projects/playmanao-doc.md).
+For more detailed explanation go [here](/docs/projects/playmanao-doc.md).  
+Link to the github repo [here](https://github.com/lydialawli/manao-ionic/)
 
 ## Context
 

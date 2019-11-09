@@ -19,7 +19,7 @@ Values openness, integrity and humbleness.
 ## now
 
 - In search for a programming job. Barcelona or elsewhere.
-- Rethinking how to build [Evok](https://github.com/lydialawli/Evok).
+- Rethinking how to build [Evok](docs/projects/evok.md).
 - Building the first MVP of PlayManao.
 
 ## Contact Ly for any random reason
