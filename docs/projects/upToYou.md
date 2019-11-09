@@ -1,6 +1,6 @@
 # __UP TO YOU__ - My very first mobile app
 
-*30 April 2018*
+*April 2018*
 
 ![uptoYouHeader](../projects/assets/up2U-header.png )
 
@@ -56,7 +56,6 @@ One month later.. tadah! Mission accomplished, happy me. 🎉
 
 I want to work on a newer version of it, as it has a few things to improve for sure.
 But currently working on [Evok](https://github.com/lydialawli/Evok), my next mobile app after Up To You :)
-
 
 ---
 

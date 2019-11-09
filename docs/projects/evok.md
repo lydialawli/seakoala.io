@@ -4,7 +4,7 @@ _Dec 2018_
 
 Evok is a tool that allows to **record the history** of evolving assets/elements. Assisting to ensure a **coherent input of data** and providing **options to visualise its whole history**.
 
-## Idea 
+## Idea
 
 _"The main goal of Evok is to provide __clarity__."_
 
@@ -38,21 +38,27 @@ Visualising a load of data is the easy part. Graphs, charts, timelines... have b
 
 The main difficulty is making sure the data input is consistent and continuous, otherwise the display of the data won't be as accurate and helpful.
 
-Perhaps I'm wrong, but I have the feeling that asking users to input something for the long term gratification is just **hard**.
+Perhaps I'm wrong, but I have the feeling that asking users to **input data continuously and consistently** for the **long term benefit** is just **hard**.
 
-Also, I made it so the the images appear like an animation as you scroll a timeline.
+A very thought out and tested UI and incentive system should be in the base of Evok.
+
+## Stack
+
+- __React Native__ framework for the front-end
+- __Expo__  
+- __Javascipt__
+
+I started building the app with no clue about back-end so the __Expo File System__ worked fine.
 
 ## State
 
-I had been working on Evok on and off for the last year.
-It's been in pause for a while since I went for a coding bootcamp.
+![evok-original-ui](../projects/assets/evok-01-ui.png )
 
-Currently the app is being developed in React Native using Javascript.
 There are a set of key features done:
 
 - Camera implementation
-- Ability to create and delete files (elements)
-  Sstorage system (using Expo's File system, not ideal)
+- Ability to create and delete directories (elements)
+- Storage system (using Expo's File system, not ideal)
 - Home page and element page (with all the elements data)
 - A very simple timeline and a image that keeps changing as you slide the timeline.
 - Onion skin tool in the camera page.
