@@ -25,12 +25,12 @@ It is also a way to showcase my programming abilities to whoever is interested i
 - **Javascript** everywhere
 - **NodeJS** and **npm**
   
-### Front-end
+### Frontend
 
 - **React** Framework
 - **axios** for requests to the API
 
-### Back-end
+### Backend
 
 - **Express JS** to create a server
 - **Mongodb** for local database

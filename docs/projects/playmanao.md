@@ -7,7 +7,7 @@ _Oct 2019_
 Play Manao is a cross platform mobile app that provides a growing list of **interactive games in the real world** for everyone to join and play.
 
 More detailed explanation [here](/docs/projects/playmanao-doc.md).  
-Link to the github repo [here](https://github.com/lydialawli/manao-ionic/)
+Link to the github repo's here: [frontend](https://github.com/lydialawli/manao-ionic/) and [api](https://github.com/MonicaRiera/manao-api)
 
 ## Context
 
@@ -53,7 +53,7 @@ A positive sum game for both the creators of the games and the local communities
 
 ### Design
 
-- **balsamiq** for easy and fast wireframing
+- **balsamiq** for wireframing [Play Manao UI](https://balsamiq.cloud/sigbohx/pv2juht)
 - **Figma** for prototyping and designing
 
 ## Road map

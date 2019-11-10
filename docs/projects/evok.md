@@ -44,11 +44,11 @@ A very thought out and tested UI and incentive system should be in the base of E
 
 ## Stack
 
-- __React Native__ framework for the front-end
+- __React Native__ framework for the frontend
 - __Expo__  
 - __Javascipt__
 
-I started building the app with no clue about back-end so the __Expo File System__ worked fine.
+I started building the app with no clue about backend so the __Expo File System__ worked fine.
 
 ## State
 

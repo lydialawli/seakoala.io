@@ -1,4 +1,5 @@
 # Using minimalist footwear
+
 _"Closest way to barefoot walking"_ 
 
 August 2019
@@ -8,6 +9,7 @@ August 2019
 ![ly-running-refined](../images/ly-running.png )
 
 ## Introduction
+
 Around 2016, Ly was first introduced to the idea of running and walking with "minimal shoes", or even barefoot. </br>
 The idea of it sounded cool but it wasn't internalised in her enough to switch from "normal" shoes to those primitive-funny-looking soles.😝
 
@@ -15,8 +17,8 @@ She then read [_Born to Run_](https://en.wikipedia.org/wiki/Born_to_Run:_A_Hidde
 
 ---
 
-
 ## Which ones to get?
+
 There are many brands nowadays that aim to replicate barefoot walking with their designs and materials. One successful brand is the [Vibram Five Fingers](https://eu.vibram.com/en/shop/fivefingers/). 
 
 Ly got herself one of those in 2017 and she is pretty happy about them. 
@@ -26,6 +28,7 @@ In general, Ly prefers her hand-made sandals as it **feels like you’re not wea
 (The points below are mainly to describe Ly's experience wearing hand-made shoes, but can be applicable to vibrams too)
 
 ### Benefits
+
 - can run longer distances without hurting the knee
 - body goes back to walking "naturally" and "properly"
 - doesn't constrict your feet
@@ -37,6 +40,7 @@ In general, Ly prefers her hand-made sandals as it **feels like you’re not wea
 - storing them is easy as they occupy close to nothing
 
 ### Challenges
+
 - must be extra careful with the steps
 - may get damaged or in need of fixes every now and then
 - cannot run as fast and "jumpy" as when using classic sport shoes
@@ -47,11 +51,14 @@ In general, Ly prefers her hand-made sandals as it **feels like you’re not wea
 ---
 
 ## Making your own minimal shoes
+
 ### Preparation
+
 There are so many cool tutorials out there that shows how to DIY your own shoes with very basic materials. </br>
 Ly's partner discovered this version (image) below which consists of a good piece of leather and a decent lace. Nothing you can't get easily. 
 
 ### Setup
+
 Once acquired all the necessary tools and material, the **average time** to set this up (from scratch) is approximately **20-30 minutes**.   </br>
 Logically, the more you practice, the faster it gets.
 
@@ -60,13 +67,14 @@ There are quite a lot of video tutorials out there too. So many options and styl
 Check out [Xero Shoes](https://xeroshoes.com/sandals/), they're like the bible for minimalist footwear 🙇🏻‍♀️
 
 ### Maintenance
+
 The part that tends to break faster is the **lace** from the bottom part of the big toe, as it’s facing the ground. </br>
 When it breaks, simply untie the knots and pull the string further to the toe and redo the 8 knot.
 No need to remove the lace from the three holes.
 
-<img src="src/huaraches-instructions.png"
-     alt="huaraches-instructions"
-     style="float: left; margin-right: 10px;" />
+![huaraches-instructions](../../src/huaraches-instructions.png)
+
+<a href="../src/huaraches-instructions.png" download="../src/huaraches-instructions.png">Download here</a>
 
 ---
 
@@ -76,13 +84,10 @@ Here is a picture of the recent workshop hosted in the beautiful Nowhere fest.
 
 ![huaraches-workshop-2019](../images/huaraches-workshop.jpeg )
 
-
-
 ---
   
 <div style="text-align: center;">
 
-[Contact 🐨](docs/contact.md) for any questions or feedback 😍 
+[Contact 🐨](docs/contact.md) for any questions or feedback 😍
 
 </div>
-
