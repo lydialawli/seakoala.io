@@ -11,9 +11,11 @@ Link to the github repo [here](https://github.com/lydialawli/manao-ionic/)
 
 ## Context
 
-Built by two young developers as their final project to graduate from a coding bootcamp.
+Built by two young developers (me and Monica) as their final project to graduate from a coding bootcamp.
 
 Having 3 weeks to come up with an MVP, Play Manao was developed quite rapidly with two final games ready to be played, both within the island of Samui, Thailand (since the school was located there).
+
+Since we are both based in Catalunya, we will first target users in Barcelona and all this northern area, creatng games based on this locations.
 
 ## Vision
 
