@@ -1,6 +1,9 @@
 
 ...
 
+- Carrot logo design for project in Odyssei Hackathon
+- Giveth Tshirt design for Devcon 2018
+
 - [How to manage your work as a language teacher using Airtable](https://www.youtube.com/watch?v=mnHLx2KV1hg) (Dec 2018)</br>
     An efficient tool that Ly discovered and used to manage her work back when she was an online Spanish teacher. The system works when one understands the basics of Airtable. The idea is to remove and automate work, not creating more. 
 

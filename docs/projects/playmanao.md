@@ -9,6 +9,8 @@ Play Manao is a cross platform mobile app that provides a growing list of **inte
 More detailed explanation [here](/docs/projects/playmanao-doc.md).  
 Link to the github repo's here: [frontend](https://github.com/lydialawli/manao-ionic/) and [api](https://github.com/MonicaRiera/manao-api)
 
+![manao-ui](./assets/manao-UI-01.png)
+
 ## Context
 
 Built by two young developers (me and Monica) as their final project to graduate from a coding bootcamp.
@@ -58,8 +60,7 @@ A positive sum game for both the creators of the games and the local communities
 
 ## Road map
 
-We are aiming to launch the first version to the market by the end of this year.
-A list of improvements will happen before then.
+![manao-ui](./assets/pm-roadmap-01.png)
 
 ---
 

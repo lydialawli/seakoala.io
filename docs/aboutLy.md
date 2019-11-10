@@ -4,7 +4,7 @@
      alt="ly-perfect-state"
      style="float: left; margin-right: 20px; width: 30%; border-radius: 50%;" />
 
-Spanish asian-looking person who was raised by Hong Kong family.
+Based in Catalunya, Spain.
 
 Studied her masters in 2D 3D Animation Production, and just finished a 2 month Fullstack Developer bootcamp.
 
@@ -16,7 +16,7 @@ Enjoys  [illustrating](docs/art/ilustrations-2019.md)  life from time to time.
 
 Values openness, integrity and humbleness.
 
-## now
+## Now
 
 - In search for a programming job. Barcelona or elsewhere.
 - Rethinking how to build [Evok](docs/projects/evok.md).
