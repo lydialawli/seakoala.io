@@ -6,7 +6,7 @@
 
 Based in Catalunya, Spain.
 
-Studied her masters in 2D 3D Animation Production, and just finished a 2 month Fullstack Developer bootcamp.
+Studied masters in 2D 3D Animation Production, and just finished a 2 month Fullstack Developer bootcamp.
 
 Started exploring programming in 2016.
 
