@@ -13,13 +13,13 @@
 ---
 
 ### Decentralized society is happening, whether you like it or not
-![xa-decentralize](../images/xa-decentralize.png) 
+![xa-decentralize](../images/xa-decentralize.png)
 25-8-2019
 
 ---
 
-### What's never missing around Ly
-![food-ly](../images/food-ly.png) 
+###  Food
+![food-ly](../images/food-ly.png)
 8-8-2019
 
 ---
@@ -31,7 +31,7 @@
 ---
 
 ### The Jelly Bean Band
-![cute-band](../images/cute-band.png) 
+![cute-band](../images/cute-band.png)
 6-8-2019
 
 ---
