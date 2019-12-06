@@ -18,9 +18,8 @@ Values openness, integrity and humbleness.
 
 ## Now
 
-- In search for a programming job. Barcelona or elsewhere.
-- Rethinking how to build [Evok](docs/projects/evok.md).
-- Building the first MVP of PlayManao.
+- In search for a programming job to face new challenges.
+- Working on improving [Vaamos](docs/projects/vaamos.md) and [Play Manao](docs/projects/playmanao.md).
 
 ## Contact Ly for any random reason
 

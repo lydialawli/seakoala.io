@@ -1,4 +1,4 @@
-# PLAY MANAO - A fun mobile app
+# PLAY MANAO - Geolocated Quizzes app
 
 _Oct 2019_
 
@@ -9,7 +9,7 @@ Play Manao is a cross platform mobile app that provides a growing list of **inte
 More detailed explanation [here](/docs/projects/playmanao-doc.md).  
 Link to the github repo's here: [frontend](https://github.com/lydialawli/manao-ionic/) and [api](https://github.com/MonicaRiera/manao-api)
 
-![manao-ui](./assets/manao-UI-01.png)
+![playmanao_01](./assets/playmanao_01.png)
 
 ## Context
 
@@ -35,7 +35,7 @@ A positive sum game for both the creators of the games and the local communities
 
 ### Frontend
 
-- **Ionic 4** Framework
+- **Ionic 4 - React** Framework
 - **axios** for requests to the API
 
 ### Backend

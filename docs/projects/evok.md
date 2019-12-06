@@ -2,6 +2,8 @@
 
 _Dec 2018_
 
+![avocados](../projects/assets/avocados.jpg )
+
 Evok is a tool that allows to **record the history** of evolving assets/elements. Assisting to ensure a **coherent input of data** and providing **options to visualise its whole history**.
 
 ## Idea

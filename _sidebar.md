@@ -10,6 +10,7 @@ Visuals
 
 Projects
 
+- [Vaamos](docs/projects/vaamos.md)
 - [Play Manao](docs/projects/playmanao.md)
 - [Airbnb replica](docs/projects/airbnb.md)
 - [Evok](docs/projects/evok.md)
