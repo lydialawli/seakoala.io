@@ -149,6 +149,11 @@ So, despite taking a year long effort to make it happen; it was one of the most 
 
 The van is now called Orxata. The lovely creature that will take Ly and her lover to the most unexpected places in the world, and still making them feel exactly like home. 
 
+### And here are some final shots 
+
+![orxata4](../images/orxata_01.jpg ) 
+![orxata5](../images/orxata_02.jpg ) 
+![orxata6](../images/orxata_03.jpg ) 
 ---
   
 <div style="text-align: center;">
