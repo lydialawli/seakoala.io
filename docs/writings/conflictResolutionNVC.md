@@ -86,7 +86,7 @@ That way you can **prevent** the other person from getting defensive and/or hurt
   - you'll already **feel much better**
   - you and/or **together** with the other person can come up with a solution to fullfill your need
 
-- **Neglecting** to understand your own needs can damage your emotional and even physical well-being, as well as of others around you.
+- **Neglecting** to understand your own needs can damage your emotional and even physical well-being, as well as of others around you. Be brave and slowly go for it, you're not alone :)
 
 >*“To understand and to be understood, those are amongs life's greatests gifts. And every interaction is an opportunity to exchange them”*   
 Maria Popova
