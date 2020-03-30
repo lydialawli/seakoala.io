@@ -24,7 +24,7 @@ Here's a [list of needs and feelings](https://www.nonviolentcommunication.com/pd
   
 - **Everyone** is working on **fulfilling their own needs** so you cannot expect that others will always be there for you.
 
-- Even if someone else is an asshole, they are the ones paying for it, not you. Don't get defensive and judgemental. The only way to have less assholes in this world is to **start empathising and listening to** them, and helping them see the world differently, through words and/or **through example**.
+- Even if someone else is an asshole, they are the ones paying for it, not you. Don't get defensive and judgemental. The only way to have less assholes in this world is to **start empathising and listening** to them, and helping them see the world differently, through words and/or **through example**.
 
 - Every individual has its preferred form of showing gracefulness and appreciation. If others do not show the same way you do, it **does not mean that they value you less**.
 
@@ -62,7 +62,9 @@ So before jumping directly into "resolving" the conflict in your prefered way, m
   Once you have it more or less clear you can [**describe your state and emotions**](https://www.nonviolentcommunication.com/pdf_files/feelings_needs.pdf) to the other person.  
   ✔️ *“I am feeling anxious and confused”.*  
   ✔️ *“I have a need for peace in my mind as I have been feeling anxious lately”.*   
-  ✔️ *“I feel confused about your words so I have a need for some clarity”.*
+  ✔️ *“I feel confused about your words so I have a need for some clarity”.*    
+  ✖️ *“I'm angry because you ignored me”.*    
+  ✔️ *“I feel sad and lonely because I have an unfulfilled need for support and connection”.*    
 - After you articulated those words; the other person can **relate to those feelings and needs** (because we all have them), therefor the other person can finally **understand you**. Then, they most likely will try and help, as we are all loving creatures at the end of the day.    
 But if that person is itself in a negative state, perhaps let that person also **work on their own needs** first.   
 
