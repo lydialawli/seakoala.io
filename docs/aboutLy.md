@@ -15,7 +15,8 @@ Enjoys  [illustrating](docs/art/ilustrations-2019.md)  life from time to time.
 
 ### Now
 
-In Berlin in search for my next new challenge and problem to solve. Ideally in the field of software engineering.
+- In Berlin in search for my next new challenge and problem to solve. Ideally in the field of software engineering.
+- Figuring out what's the best way to live a balanced life in the midst of the current global pandemic.
 
 ## Contact Ly for any random reason
 
