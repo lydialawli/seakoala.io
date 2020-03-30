@@ -28,15 +28,27 @@ Here's a [list of needs and feelings](https://www.nonviolentcommunication.com/pd
 
 - Every individual has its preferred form of showing gracefulness and appreciation. If others do not show the same way you do, it **does not mean that they value you less**.
 
-- Let everyone be however they want to be, there is **no point in judging or evaluating someone**. We are all in constant change (continuous new experiences, new challenges, new ideas, new learnings, insecurities, evolving physical body...).
+- Let everyone be however they want to be; there is **no point in judging or evaluating someone** when it comes to empathising with them.
+  
+- We are all in **constant change** (continuous new experiences, new challenges, new ideas, new learnings, insecurities, new hobbies, evolving physical body...) and what NVC proposes is to view ourselves differently than the common way of *“I am (x)”* or *“you are (y)”*, but rather in the approach of *“I do this”* or *“you do that”*, to enable **more precision and truth and less confusion**.    
+Same applies to when defining oneself; there is a difference between *“I am a climber”* and *“I climb. 3 times per week precisely”.*    
+The first one can lead to **interpretations** of all sorts, while the other is just a fact an **no one can really deny that**. Hence, it is **less prone** to receiving **judgements** and **evaluations** from others.    
+In other words, to **describe someone** using the **action itself** instead of **"to be"**.    
 
+  ✖️ *“I am a dancer, but not a professional one”.*      
+  ✔️ *“I dance often, I love it”.*     
+  ✖️ *“You are a looser”.*      
+  ✔️ *“You did not achieve the task on time”.*    
+  
+- There is no *good/bad*, *right/wrong* or *better/worse* in NVC.
+  
 - The more you work on **understanding your needs**, the easier and **better** you can **treat yourself**. And the less you depend on others to be happy. *Practicing self-love = love yourself more = satisfied with yourself*
 
 - NVC is not just a communication method but a way of thinking and living that will enable for **more honesty with yourself and with others**.
 
 ## Conflict resolution
 
-Imagine now that you are stading and facing towards someone you love. You now are dealing with a conflict with that person, you feel some level of **discomfort, neglect or perhaps distance**.
+Imagine now that you are standing and facing towards **someone you love**. You now are dealing with a conflict with that person, you feel some level of **discomfort, neglect or perhaps distance**.
 
 It may cross your mind that **there is certainly something** that the other person ***can do*** or ***can stop doing*** that you know it will make you feel better. You may know it, or you may not. Whichever case it is, those are the **strategies** to fullfill your need.
 
@@ -47,7 +59,7 @@ So before jumping directly into "resolving" the conflict in your prefered way, m
 
 - Start by **understanding yourself** and what your **unfulfilled need** is (if you don't know it, how can others know?).   
   You may start by **feeling** it, it often helps.   
-  Once you have it more or less clear you can [**describe your state**](https://www.nonviolentcommunication.com/pdf_files/feelings_needs.pdf) to the other person.  
+  Once you have it more or less clear you can [**describe your state and emotions**](https://www.nonviolentcommunication.com/pdf_files/feelings_needs.pdf) to the other person.  
   ✔️ *“I am feeling anxious and confused”.*  
   ✔️ *“I have a need for peace in my mind as I have been feeling anxious lately”.*   
   ✔️ *“I feel confused about your words so I have a need for some clarity”.*
