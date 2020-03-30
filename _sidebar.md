@@ -19,7 +19,7 @@ Projects
 
 Words
 
-- [Communication using NVC](docs/writings/conflictResolutionNVC.md)
+- [Conflict Resolution through NVC](docs/writings/conflictResolutionNVC.md)
 - [One man's short story](docs/writings/oneManShortStory.md)
 <!-- - [reflecting on the origins of AI](docs/writings/originsAI.md) -->
 - [Minimal shoes](docs/writings/minimalShoes.md)
