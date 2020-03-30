@@ -84,7 +84,8 @@ That way you can **prevent** the other person from getting defensive and/or hurt
   - you'll already feel much better
   - you and/or together with the other person can come up with a solution to fullfill your need
   
->*“To understand and to be understood, is the greatest gift of life”*
+>*“To understand and to be understood, those are amongs life's greatests gifts. And every interaction is an opportunity to exchange them”*   
+Maria Popova
 
 
 If you think you can benefit from reading more examples of this, or just want to have a chat with me about this subject, don't hesitate to reach out to me!
