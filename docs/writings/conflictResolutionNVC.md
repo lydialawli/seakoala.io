@@ -58,8 +58,8 @@ Before someone can agree to your strategy, they must first be able to understand
 So before jumping directly into "resolving" the conflict in your prefered way, make sure that you are both in the same page so that it allows the other to **help you out of compassion and empathy**, rather than by **force, obligation or fear**.
 
 - Start by **understanding yourself** and what your **unfulfilled need** is (if you don't know it, how can others know?).   
-  You may start by **feeling** it, it often helps.   
-  Once you have it more or less clear you can [**describe your state and emotions**](https://www.nonviolentcommunication.com/pdf_files/feelings_needs.pdf) to the other person.  
+  You may start by describing the [**feelings**](https://www.nonviolentcommunication.com/pdf_files/feelings_needs.pdf), it often helps to visualize easier the needs underneath them.      
+  Once you have it more or less clear you can **describe your state and emotions** to the other person.      
   ✔️ *“I am feeling anxious and confused”.*  
   ✔️ *“I have a need for peace in my mind as I have been feeling anxious lately”.*   
   ✔️ *“I feel confused about your words so I have a need for some clarity”.*    
@@ -83,8 +83,8 @@ That way you can **prevent** the other person from getting defensive and/or hurt
 - You can even **be more specific** with your request (for how long, how often, when...). The more specific, the clearer it is for the other, and thus, the faster they can accept or reject your request.
 - And again, if one **rejects your requests**; whether or not they reason it, your needs are still yours to be responsible for. **Anger and blame** won't help in this circumstances. Perhaps empathy and compassion will do.
 - Once you stated clearly your feelings and needs, and the other person can empathise with you, most likely:
-  - you'll already feel much better
-  - you and/or together with the other person can come up with a solution to fullfill your need
+  - you'll already **feel much better**
+  - you and/or **together** with the other person can come up with a solution to fullfill your need
 
 - **Neglecting** to understand your own needs can damage your emotional and even physical well-being, as well as of others around you.
 
