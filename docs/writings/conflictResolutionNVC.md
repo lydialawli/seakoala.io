@@ -18,7 +18,7 @@ Here's a [list of needs and feelings](https://www.nonviolentcommunication.com/pd
 
 - The **strategies** to fulfill the need are what **varies** between humans.
 
-- You can request and propose a way for someone else to help fulfill your need, but never demand.
+- You can **request** and propose a way for someone else to help fulfill your need, but **never demand**.
 
 - Asking for a **clear and specific request** makes it easier for the other to help fulfill your need.
   
@@ -33,7 +33,7 @@ Here's a [list of needs and feelings](https://www.nonviolentcommunication.com/pd
 - We are all in **constant change** (continuous new experiences, new challenges, new ideas, new learnings, insecurities, new hobbies, evolving physical body...) and what NVC proposes is to view ourselves differently than the common way of *“I am (x)”* or *“you are (y)”*, but rather in the approach of *“I do this”* or *“you do that”*, to enable **more precision and truth and less confusion** in our communication.    
 Same applies to when defining oneself; there is a difference between *“I am a climber”* and *“I climb. 3 times per week precisely”.*    
 The first one can lead to **interpretations** of all sorts, while the other is just a fact an **no one can really deny that**. Hence, it is **less prone** to receiving **judgements** and **evaluations** from others.    
-In other words, to **describe someone** using the **action itself** instead of **"to be"**.    
+In other words, to **describe someone** using the **action itself**(observation) instead of **"to be"** (evaluation/interpretation).    
 
   ✖️ *“I am a dancer, but not a professional one”.*      
   ✔️ *“I dance often, I love it”.*     
@@ -86,7 +86,7 @@ That way you can **prevent** the other person from getting defensive and/or hurt
   - you'll already **feel much better**
   - you and/or **together** with the other person can come up with a solution to fullfill your need
 
-- **Neglecting** to understand your own needs can damage your emotional and even physical well-being, as well as of others around you. Be brave and slowly go for it, you're not alone :)
+- **Neglecting** to understand your own needs can **damage your emotional and even physical well-being**, as well as of others around you. Be **brave** and slowly go for it, you're not alone in this :)
 
 >*“To understand and to be understood, those are amongs life's greatests gifts. And every interaction is an opportunity to exchange them”*   
 Maria Popova
