@@ -44,7 +44,7 @@ In other words, to **describe someone** using the **action itself** instead of *
   
 - The more you work on **understanding your needs**, the easier and **better** you can **treat yourself**. And the less you depend on others to be happy. *Practicing self-love = love yourself more = satisfied with yourself*
 
-- NVC is not just a communication method but a way of thinking and living that will enable you to develop **more honesty with yourself and with others**.
+- NVC is not just a communication method but a way of thinking and living that will enable you to **more honesty with yourself and with others**.
 
 ## Conflict resolution
 
@@ -90,7 +90,7 @@ That way you can **prevent** the other person from getting defensive and/or hurt
 Maria Popova
 
 
-If you think you can benefit from reading more examples of this, or just want to have a chat with me about this subject, don't hesitate to reach out to me!
+If you think you can benefit from reading more examples of this, or just want to have a chat with me, don't hesitate to reach out!
 
 ---
 <div style="text-align: center;">
