@@ -58,7 +58,7 @@ Before someone can agree to your strategy, they must first be able to understand
 So before jumping directly into "resolving" the conflict in your prefered way, make sure that you are both in the same page so that it allows the other to **help you out of compassion and empathy**, rather than by **force, obligation or fear**.
 
 - Start by **understanding yourself** and what your **unfulfilled need** is (if you don't know it, how can others know?).   
-  You may start by describing the [**feelings**](https://www.nonviolentcommunication.com/pdf_files/feelings_needs.pdf), it often helps to visualize easier the needs underneath them.      
+  You may start by describing the [**feelings**](https://www.nonviolentcommunication.com/pdf_files/feelings_needs.pdf), it often helps to locate the needs behind them.      
   Once you have it more or less clear you can **describe your state and emotions** to the other person.      
   ✔️ *“I am feeling anxious and confused”.*  
   ✔️ *“I have a need for peace in my mind as I have been feeling anxious lately”.*   
