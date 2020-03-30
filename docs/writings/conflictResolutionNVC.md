@@ -37,7 +37,7 @@ In other words, to **describe someone** using the **action itself** instead of *
 
   ✖️ *“I am a dancer, but not a professional one”.*      
   ✔️ *“I dance often, I love it”.*     
-  ✖️ *“You are a looser”.*      
+  ✖️ *“You are a loser”.*      
   ✔️ *“You did not achieve the task on time”.*    
   
 - Noone is *good/bad*, *right/wrong* or *better/worse* in NVC.
