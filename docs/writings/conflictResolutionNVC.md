@@ -30,7 +30,7 @@ Here's a [list of needs and feelings](https://www.nonviolentcommunication.com/pd
 
 - Let everyone be however they want to be; there is **no point in judging or evaluating someone** if you trully want to understand them.
   
-- We are all in **constant change** (continuous new experiences, new challenges, new ideas, new learnings, insecurities, new hobbies, evolving physical body...) and what NVC proposes is to view ourselves differently than the common way of *“I am (x)”* or *“you are (y)”*, but rather in the approach of *“I do this”* or *“you do that”*, to enable **more precision and truth and less confusion**.    
+- We are all in **constant change** (continuous new experiences, new challenges, new ideas, new learnings, insecurities, new hobbies, evolving physical body...) and what NVC proposes is to view ourselves differently than the common way of *“I am (x)”* or *“you are (y)”*, but rather in the approach of *“I do this”* or *“you do that”*, to enable **more precision and truth and less confusion** in our communication.    
 Same applies to when defining oneself; there is a difference between *“I am a climber”* and *“I climb. 3 times per week precisely”.*    
 The first one can lead to **interpretations** of all sorts, while the other is just a fact an **no one can really deny that**. Hence, it is **less prone** to receiving **judgements** and **evaluations** from others.    
 In other words, to **describe someone** using the **action itself** instead of **"to be"**.    
