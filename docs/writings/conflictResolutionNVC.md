@@ -28,7 +28,7 @@ Here's a [list of needs and feelings](https://www.nonviolentcommunication.com/pd
 
 - Every individual has its preferred form of showing gracefulness and appreciation. If others do not show the same way you do, it **does not mean that they value you less**.
 
-- Let everyone be however they want to be; there is **no point in judging or evaluating someone** when it comes to empathising with them.
+- Let everyone be however they want to be; there is **no point in judging or evaluating someone** if you trully want to understand them.
   
 - We are all in **constant change** (continuous new experiences, new challenges, new ideas, new learnings, insecurities, new hobbies, evolving physical body...) and what NVC proposes is to view ourselves differently than the common way of *“I am (x)”* or *“you are (y)”*, but rather in the approach of *“I do this”* or *“you do that”*, to enable **more precision and truth and less confusion**.    
 Same applies to when defining oneself; there is a difference between *“I am a climber”* and *“I climb. 3 times per week precisely”.*    
