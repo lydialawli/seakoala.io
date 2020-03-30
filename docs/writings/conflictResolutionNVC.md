@@ -40,7 +40,7 @@ In other words, to **describe someone** using the **action itself** instead of *
   ✖️ *“You are a looser”.*      
   ✔️ *“You did not achieve the task on time”.*    
   
-- There is no *good/bad*, *right/wrong* or *better/worse* in NVC.
+- Noone is *good/bad*, *right/wrong* or *better/worse* in NVC.
   
 - The more you work on **understanding your needs**, the easier and **better** you can **treat yourself**. And the less you depend on others to be happy. *Practicing self-love = love yourself more = satisfied with yourself*
 
