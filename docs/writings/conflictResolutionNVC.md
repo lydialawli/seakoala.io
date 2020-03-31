@@ -16,7 +16,14 @@ Here's a [list of needs and feelings](https://www.nonviolentcommunication.com/pd
 
 - That **needs** are the **same for everyone** and that is **our own responsibility** to fulfill them.
 
-- The **strategies** to fulfill the need are what **varies** between humans.
+- The **strategies** to **fulfill the need** are what **varies** between humans. As we can choose different ways to satisfy them. One may agree or not in the strategy that the other chose. Conflicts tend to arise due to unspoken disagreements.
+
+| Observation           | Feelings       | Need            | Strategy       |
+| ------------------ |: ---------------- :|  ------------------- :|------------------- :|
+| The air is dry        | I am thirsty     | I need water         | I am going to buy water    |
+| I have been with my kids all weekend  | I feel stressed and anxious  | I need space and peace  | I'll send the kids to their grandpas |
+| I've worked in the company for years | I feel discouraged and dismotivated  | I need challenge and growth |  I will retake my Spanish lessons
+| My partner doesn't look me into the eye anymore | I feel sad and lonely | I need support and affection | I will explain my feelings and needs to him |
 
 - You can **request** and propose a way for someone else to help fulfill your need, but **never demand**.
 
@@ -28,14 +35,14 @@ Here's a [list of needs and feelings](https://www.nonviolentcommunication.com/pd
 
 - Even if someone else is an asshole, they are the ones paying for it, not you. Don't get defensive and judgemental. The only way to have less assholes in this world is to **start empathising and listening** to them, and helping them see the world differently, through words and/or **through example**.
 
-- Every individual has its preferred form of showing gracefulness and appreciation. If others do not show the same way you do, it **does not mean that they value you less**.
+- Each individual has its preferred form of showing gracefulness and appreciation. If others do not show the same way you do, it **does not mean that they value you less**.
 
 - Let everyone be however they want to be; there is **no point in judging or evaluating someone** if you trully want to understand them.
   
 - We are all in **constant change** (continuous new experiences, new challenges, new ideas, new learnings, insecurities, new hobbies, evolving physical body...) and what NVC proposes is to view ourselves differently than the common way of *“I am (x)”* or *“you are (y)”*, but rather in the approach of *“I do this”* or *“you do that”*, to enable **more precision and truth and less confusion** in our communication.    
 Same applies to when defining oneself; there is a difference between *“I am a climber”* and *“I climb. 3 times per week precisely”.*    
 The first one can lead to **interpretations** of all sorts, while the other is just a fact an **no one can really deny that**. Hence, it is **less prone** to receiving **judgements** and **evaluations** from others.    
-In other words, to **describe someone** using the **action itself**(observation) instead of **"to be"** (evaluation/interpretation).    
+In other words, to **describe someone** using the **action itself** (observation) instead of **"to be"** (evaluation).    
 
   ✖️ *“I am a dancer, but not a professional one”.*      
   ✔️ *“I dance often, I love it”.*     
