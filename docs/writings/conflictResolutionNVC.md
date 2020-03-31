@@ -4,7 +4,7 @@
 
 ---
 
-NVC stands for **Non Violent Communication**, developed by [Marshall Rosenberg](https://www.cnvc.org/learn-nvc/what-is-nvc) to bring a set of **tools/way of thinking/way of living** to enable honest and meaningful connections between humans.
+NVC stands for **Non Violent Communication**, developed by [Marshall Rosenberg](https://www.cnvc.org/learn-nvc/what-is-nvc) to bring a set of **tools/way of thinking/way of living** to enables honest and meaningful connections between humans.
 
 This is an attempt to summarize the complex technique/philosophy of NVC and to contextualise it in a way that we can learn and apply it in our daily lives. Specially to **solve conflicts between our relationships**.
 
@@ -23,7 +23,7 @@ Here's a [list of needs and feelings](https://www.nonviolentcommunication.com/pd
 | The air is dry        | I am thirsty     | I need water         | I am going to buy water    |
 | I have been with my kids all weekend  | I feel stressed and anxious  | I need space and peace  | I'll send the kids to their grandpas |
 | I've worked in the company for years | I feel discouraged and dismotivated  | I need challenge and growth |  I will retake my Spanish lessons
-| My partner doesn't look me into the eye anymore | I feel sad and lonely | I need support and affection | I will explain my feelings and needs to him |
+| My partner doesn't look me in the eyes anymore | I feel sad and lonely | I need support and affection | I will explain my feelings and needs to him |
 
 - You can **request** and propose a way for someone else to help fulfill your need, but **never demand**.
 
