@@ -42,7 +42,7 @@ In other words, to **describe someone** using the **action itself**(observation)
   ✖️ *“You are a loser”.*      
   ✔️ *“You did not achieve the task on time”.*    
   
-- Noone is *good/bad*, *right/wrong* or *better/worse* in NVC.
+- No one is *good/bad*, *right/wrong* or *better/worse* in NVC.
   
 - The more you work on **understanding your needs**, the easier and **better** you can **treat yourself**. And the less you depend on others to be happy. *Practicing self-love = love yourself more = satisfied with yourself*
 
@@ -90,7 +90,7 @@ That way you can **prevent** the other person from getting defensive and/or hurt
 
 - **Neglecting** to understand your own needs can **damage your emotional and even physical well-being**, as well as of others around you.
   
-- NVC is like a **sport** as it can also take **years to master** this technique, and it requires attentiveness and practice. I encourage you to be **brave** and slowly go for it, you're not alone in this :)
+- NVC is like a **sport** as it can also take **years to master** this technique, and it requires **attentiveness** and **practice**. I encourage you to be **brave** and slowly go for it, you're not alone in this :)
 
 
 >*“To understand and to be understood, those are amongs life's greatests gifts. And every interaction is an opportunity to exchange them”*   
