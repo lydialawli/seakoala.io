@@ -16,7 +16,7 @@ Here's a [list of needs and feelings](https://www.nonviolentcommunication.com/pd
 
 - That **needs** are the **same for everyone** and that is **our own responsibility** to fulfill them.
 
-- The **strategies** to **fulfill the need** are what **varies** between humans. As we can choose different ways to satisfy them. One may agree or not in the strategy that the other chose. Conflicts tend to arise due to unspoken disagreements.
+- The **strategies** to **fulfill the need** are what **varies** between humans. As we can choose different ways to satisfy them. One may agree or not in the strategy that the other chose. Conflicts tend to arise due to unspoken disagreements on the chosen strategy.
 
 | Observation           | Feelings       | Need            | Strategy       |
 | ------------------ |: ---------------- :|  ------------------- :|------------------- :|
