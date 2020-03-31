@@ -29,12 +29,16 @@ Here's a [list of needs and feelings](https://www.nonviolentcommunication.com/pd
 
 - Asking for a **clear and specific request** makes it easier for the other to help fulfill your need.
   
-- **Everyone** is working on **fulfilling their own needs** so you cannot expect that others will always be there for you.
+- **Everyone** is working on **fulfilling their own needs** so you cannot expect that others will always be there for you. Here's a simplified version of us, represented in the super cool game Sims ;)
+
+![sims-need](../images/sims-needs.gif ) 
 
 - Even if you are communicating in the realms of NVC, **do not expect** the other to do the same.
 
 - Even if someone else is an asshole, they are the ones paying for it, not you. Don't get defensive and judgemental. The only way to have less assholes in this world is to **start empathising and listening** to them, and helping them see the world differently, through words and/or **through example**.
 
+- Underneath every action we do, there is a need.
+ 
 - Each individual has its preferred form of showing gracefulness and appreciation. If others do not show the same way you do, it **does not mean that they value you less**.
 
 - Let everyone be however they want to be; there is **no point in judging or evaluating someone** if you trully want to understand them.
