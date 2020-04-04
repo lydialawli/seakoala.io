@@ -1,12 +1,12 @@
 
 ### The blue Xa
-![xa-blue](../images/xa-blue.png) </br>
+![xa-blue](../images/xa-blue.png)    
 25-8-2019
 
 ---
 
 ### ICECREAM TIME!
-![xa-melting](../images/xa-melting.gif) </br>
+![xa-melting](../images/xa-melting.gif)    
 25-8-2019
 
 <iframe src="https://giphy.com/embed/SvRB8Yv9ctoxLNlB5y" width="500" height="510" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
@@ -25,37 +25,37 @@
 ---
 
 ### The Screaming Spirit (WIP)
-![monster1](../images/monster1.png ':size=250%') ![monster2](../images/monster2.png ':size=250%') ![monster3](../images/monster3.png ':size=250%') 
+![monster1](../images/monster1.png ':size=250%') ![monster2](../images/monster2.png ':size=250%') ![monster3](../images/monster3.png ':size=250%')     
 6-8-2019
 
 ---
 
 ### The Jelly Bean Band
-![cute-band](../images/cute-band.png)
+![cute-band](../images/cute-band.png)    
 6-8-2019
 
 ---
 
 ###  Line art Marylin
-![Tokyo-Marylin](../images/Tokyo-Marylin.png)
+![Tokyo-Marylin](../images/Tokyo-Marylin.png)    
 27-7-2019
 
 ---
 
 ### In the eyes of Ly
-![universeLy](../images/universeLy.png)
+![universeLy](../images/universeLy.png)    
 26-7-2019
 
 ---
 
 ### Line art Tokyo meetup sketch #1
-![line-drawing-01](../images/line-drawing-01.jpg)
+![line-drawing-01](../images/line-drawing-01.jpg)    
 16-6-2019
 
 ---
 
 ### Line art Tokyo meetup sketch #2
-![line-drawing-02](../images/line-drawing-02.jpg)
+![line-drawing-02](../images/line-drawing-02.jpg)    
 16-6-2019
 
 ---
