@@ -154,6 +154,7 @@ The van is now called Orxata. The lovely creature that will take Ly and her love
 ![orxata4](../images/orxata_01.jpg ) 
 ![orxata5](../images/orxata_02.jpg ) 
 ![orxata6](../images/orxata_03.jpg ) 
+![orxata-roof](../images/orxata_roof.jpg ) 
 ---
   
 <div style="text-align: center;">
