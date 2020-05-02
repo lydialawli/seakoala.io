@@ -58,10 +58,10 @@ A positive sum game for both the creators of the games and the local communities
 - **balsamiq** for wireframing [Play Manao UI](https://balsamiq.cloud/sigbohx/pv2juht)
 - **Figma** for prototyping and designing
 
-## Road map
+<!-- ## Road map
 
 ![manao-ui](./assets/pm-roadmap-01.png)
 
----
+--- -->
 
 Link to the github repo [here](https://github.com/lydialawli/manao-ionic/)

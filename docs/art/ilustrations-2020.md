@@ -1,3 +1,26 @@
+
+
+### 3 word 30 minutes challenge Light-Wood-Loneliness : result
+
+![wood-creature-01](../images/wood-creature-03.png)    
+3-4-2020
+
+---
+
+### 3 word 30 minutes challenge: Light-Wood-Loneliness: refine
+
+![wood-creature-01](../images/wood-creature-02.png)    
+3-4-2020
+
+---
+
+### 3 word 30 minutes challenge: Light-Wood-Loneliness: sketch
+
+![wood-creature-01](../images/wood-creature-01.png)    
+3-4-2020
+
+---
+
 ### Unsettled mind
 
 ![unsettled-mind](../images/unsettled-mind.png)    
