@@ -1,23 +1,26 @@
 
 
 ### 3 word 30 minutes challenge Light-Wood-Loneliness : result
+*suggested by Josep Fatjó*
 
-![wood-creature-01](../images/wood-creature-03.png)    
-3-4-2020
+![wood-creature-03](../images/wooden-creature-03.png)    
+2-5-2020
 
 ---
 
 ### 3 word 30 minutes challenge: Light-Wood-Loneliness: refine
+*suggested by Josep Fatjó*
 
-![wood-creature-01](../images/wood-creature-02.png)    
-3-4-2020
+![wood-creature-02](../images/wooden-creature-02.png)    
+2-5-2020
 
 ---
 
 ### 3 word 30 minutes challenge: Light-Wood-Loneliness: sketch
+*suggested by Josep Fatjó*
 
-![wood-creature-01](../images/wood-creature-01.png)    
-3-4-2020
+![wood-creature-01](../images/wooden-creature-01.png)    
+2-5-2020
 
 ---
 
