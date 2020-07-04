@@ -1,6 +1,6 @@
 # Conflict resolution through NVC
 
-30 March 2020
+30 March 2020 
 
 ---
 
@@ -39,7 +39,7 @@ Here's a [list of needs and feelings](https://www.nonviolentcommunication.com/pd
 
 - Underneath every action we do, there is a need.
  
-- Each individual has its preferred form of showing gracefulness and appreciation. If others do not show the same way you do, it **does not mean that they value you less**.
+- Each individual has their preferred form of showing gracefulness and appreciation. If others do not show the same way you do, it **does not mean that they value you less**.
 
 - Let everyone be however they want to be; there is **no point in judging or evaluating someone** if you trully want to understand them.
   
