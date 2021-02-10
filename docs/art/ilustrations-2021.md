@@ -1,4 +1,9 @@
+### All eyes on me
+*eyes eyes baby, it's snowy and sunny!*
+![all-eyes](../images/all-eyes.jpg)    
+10-2-2021
 
+---
 ### WTF just happened
 
 ![wtfFustHappened](../images/wtfJustHappened.png)    
