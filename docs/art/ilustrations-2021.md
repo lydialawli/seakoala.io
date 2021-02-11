@@ -19,7 +19,7 @@
 ---
 ### Fire man
 
-![fireMan](../images/fireman.jng)    
+![fireMan](../images/fireman.jpg)    
 26-1-2021
 
 ---
