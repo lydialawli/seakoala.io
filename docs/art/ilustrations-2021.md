@@ -1,3 +1,10 @@
+### Hallo Jennifer
+*das ist mein toller Deutschlehrer!*
+![jennifer](../images/jennifer.jpg)    
+11-2-2021
+
+---
+
 ### All eyes on me
 *eyes eyes baby, it's snowy and sunny!*
 ![all-eyes](../images/all-eyes.jpg)    
@@ -8,6 +15,12 @@
 
 ![wtfFustHappened](../images/wtfJustHappened.png)    
 29-1-2021
+
+---
+### Fire man
+
+![fireMan](../images/fireman.jng)    
+26-1-2021
 
 ---
 ### Incent whale holder
