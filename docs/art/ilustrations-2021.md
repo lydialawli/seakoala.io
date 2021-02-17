@@ -1,6 +1,5 @@
-### Us the Duo 
-*check them out https://www.youtube.com/watch?v=ZD34ZBx86Os*
-![usTheDuo](../images/usTheDuo.jpg)    
+### Kick ass
+![kickAss](../images/kickAss.jpg)    
 17-2-2021
 ---
 
