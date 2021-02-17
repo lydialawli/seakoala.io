@@ -1,5 +1,16 @@
-### Hallo Jennifer
-*Happy Chinese New Year 2021!*
+### I am stuck
+![iAmStuck](../images/iAmStuck.jpg)    
+17-2-2021
+---
+
+### Us the Duo 
+*whilst listening to them live*
+![usTheDuo](../images/usTheDuo.jpg)    
+16-2-2021
+---
+
+### Happy Chinese New Year 2021!
+*2021 Metal Ox = stem Lung & branch Liver. A good year for war, setting boundaries, setting the strategies for a new cycle*
 ![bull-year](../images/chineseNewYear2021.jpg)    
 12-2-2021
 ---
@@ -38,5 +49,11 @@
 
 ![incentWhaleWIP](../images/incentWhaleWIP.jpg)    
 13-1-2021
+
+---
+### Who are we working for? wip
+
+![noodleGuy](../images/noodleGuy-wip.jpg)    
+9-1-2021
 
 ---
