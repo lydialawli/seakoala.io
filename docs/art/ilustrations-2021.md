@@ -1,11 +1,11 @@
-### I am stuck
-![iAmStuck](../images/iAmStuck.jpg)    
+### Us the Duo 
+*check them out https://www.youtube.com/watch?v=ZD34ZBx86Os*
+![usTheDuo](../images/usTheDuo.jpg)    
 17-2-2021
 ---
 
-### Us the Duo 
-*whilst listening to them live*
-![usTheDuo](../images/usTheDuo.jpg)    
+### I am stuck
+![iAmStuck](../images/iAmStuck.jpg)    
 16-2-2021
 ---
 
