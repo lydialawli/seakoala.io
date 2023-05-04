@@ -4,6 +4,7 @@ About
 
 Visuals
 
+- [2022](docs/art/ilustrations-2022.md)
 - [2021](docs/art/ilustrations-2021.md)
 - [2020](docs/art/ilustrations-2020.md)
 - [2019](docs/art/ilustrations-2019.md)
