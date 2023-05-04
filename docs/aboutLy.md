@@ -4,14 +4,22 @@
      alt="ly-perfect-state"
      style="float: left; margin-right: 20px; width: 30%; border-radius: 50%;" />
 
-Born in Catalunya, Spain. Currently based in Berlin. 
+Lydia or Ly, same same.
 
-Studied masters in 2D 3D Animation, started recently to make her way into the tech/startup world.
+Born in Catalunya, Spain with Cantonese roots. Based in Berlin since 2020.
 
-Fan of rock climbing, trail running, self-expression, books and introspective knowledge...  
+Finalized a Bachelor's degree in 2D-3D Animation Production but eventually shifted to the startup tech world.
+
+Passionate web/mobile app developer (stronger skill is in Frontend and in UI/UX design).
+
+Learning Thai Yoga Massage since 2023.
+
+Fan of rock climbing, running, creative self-expression (visual art and movement) and making weird and not so weird stuff.
 
 Enjoys  [illustrating](docs/art/ilustrations-2019.md)  life from time to time.
 
-## Contact Ly for any random reason
+## Contact or follow Ly
 
-<img src="https://img.icons8.com/doodle/48/000000/mail-with-wings.png" style="width: 22px">  ly@seakoala.io
+<img src="https://img.icons8.com/doodle/48/000000/mail-with-wings.png" style="width: 22px">  lydialawli@gmail.com
+
+<img src="https://img.icons8.com/doodle/48/000000/instagram.png" style="width: 22px"> [@ly_drops](https://www.instagram.com/ly_drops/)

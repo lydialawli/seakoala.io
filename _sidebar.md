@@ -10,8 +10,9 @@ Visuals
 - [2018](docs/art/ilustrations-2018.md)
 - [2017](docs/art/ilustrations-2017.md)
 
-Projects
+Personal Apps
 
+- [Draw 3 Words](docs/projects/draw3words.md)
 - [Vaamos](docs/projects/vaamos.md)
 - [Play Manao](docs/projects/playmanao.md)
 - [Airbnb replica](docs/projects/airbnb.md)
