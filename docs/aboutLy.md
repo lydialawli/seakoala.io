@@ -6,7 +6,7 @@
 
 Lydia or Ly, same same.
 
-Born in Catalunya, Spain with Cantonese roots. Based in Berlin since 2020.
+Born in Catalunya with Cantonese roots. Based in Berlin since 2020.
 
 Finalized a Bachelor's degree in 2D-3D Animation Production but eventually shifted to the startup tech world.
 
