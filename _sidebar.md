@@ -12,7 +12,7 @@
 - [2018](docs/art/ilustrations-2018.md)
 - [2017](docs/art/ilustrations-2017.md)
 
-### UI/UX in production
+### UI/UX work
 
 - [Vytal report problem](docs/uiux/vytal.md)
 - [Vouchers](docs/uiux/vouchers.md)
