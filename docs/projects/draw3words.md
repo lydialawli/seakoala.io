@@ -1,11 +1,12 @@
-# Draw 3 Words - Creative art prompt  web app
+# Draw 3 Words - Creative art prompting and sharing (WIP)
 
 _April 2023_
+
 https://draw3words.web.app/ 
 
 ![draw3words01](assets/draw3words-v01.png)
 
-## Definition
+## What does this do?
 
 Creative tool to encourage you to practice your artistic skills consistently.
 
@@ -24,6 +25,21 @@ What I learned so far is how to use Firebase tools:
 - test and deploy the app production ready
 
 There’s still a lot to do before publishing the app (authentication feature and rules, fix some 🐞...) but feel free to play around and please let me know if you have any feedback!
+
+## Up next
+
+I got feedback from some cool humans and the list is long!
+In a nutshell:
+
+- fix image loading delay
+- fix inaccessible button
+- image carousel?
+- upload complete feedback
+- web layout ugly
+- figure out how to attract the first 4-10 users. Why would they want to use this and keep coming back?
+- make it private to avoid spamming (ie users are given an access code)
+- think about maybe setting specific days for releasing new words instead of providing every day
+    - have a telegram group or newsletter to notify users that next words are coming x date
 
 ## Stack
 

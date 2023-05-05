@@ -2,14 +2,16 @@
 
 _Oct 2019_
 
-## Definition
+## What does Play Manao do?
 
-Play Manao is a cross platform mobile app that provides a growing list of **interactive games in the real world** for everyone to join and play.
+Provides a growing list of **interactive games in the real world** for everyone to join and play.
 
 More detailed explanation [here](/docs/projects/playmanao-doc.md).  
 Link to the github repo's here: [frontend](https://github.com/lydialawli/manao-ionic/) and [api](https://github.com/MonicaRiera/manao-api)
 
 ![playmanao_01](./assets/playmanao_01.png)
+
+![playmanao_02](./assets/play-manao-v02.png)
 
 ## Context
 
@@ -18,6 +20,11 @@ Built by two young developers (me and Monica) as their final project to graduate
 Having 3 weeks to come up with an MVP, Play Manao was developed quite rapidly with two final games ready to be played, both within the island of Samui, Thailand (since the school was located there).
 
 Since we are both based in Catalunya, we will first target users in Barcelona and all this northern area, creatng games based on this locations.
+
+## What does the name mean?
+
+**Manao** means "lime" in Thai and we were inspired by the lime trucks that were advertised daily next to our coding school.
+As the first (and ever build) game was based in the island we were in, we decided to embrace that name as it sounded appealing.
 
 ## Vision
 
@@ -31,7 +38,7 @@ Creating a space for **collaborations/teamwork** and challenging rivals through 
 
 A positive sum game for both the creators of the games and the local communities, by collaborating with local public services and supporting each other in return.
 
-## Current Stack
+## Initial Stack
 
 ### Frontend
 

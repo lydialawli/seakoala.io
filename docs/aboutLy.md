@@ -16,8 +16,6 @@ Learning Thai Yoga Massage since 2023.
 
 Fan of rock climbing, running, creative self-expression (visual art and movement) and making weird and not so weird stuff.
 
-Enjoys  [illustrating](docs/art/ilustrations-2019.md)  life from time to time.
-
 ## Contact or follow Ly
 
 <img src="https://img.icons8.com/doodle/48/000000/mail-with-wings.png" style="width: 22px">  lydialawli@gmail.com
