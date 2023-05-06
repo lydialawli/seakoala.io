@@ -12,15 +12,16 @@
 - [2018](docs/art/ilustrations-2018.md)
 - [2017](docs/art/ilustrations-2017.md)
 
-### UI/UX work
-
-- [Vytal report problem](docs/uiux/vytal.md)
-- [Vouchers](docs/uiux/vouchers.md)
-- [Orders](docs/uiux/orders.md)
-
-### Personal apps
+### Live work
 
 - [Draw 3 Words](docs/projects/draw3words.md)
+- [Vytal report problem](docs/projects/vytal.md)
+- [Itinerary planner](docs/projects/itineraryPlanner.md)
+- [Vouchers](docs/projects/vouchers.md)
+- [Orders](docs/projects/orders.md)
+
+### Other Personal apps
+
 - [Quotesnack](docs/projects/quotesnack.md)
 - [Vaamos](docs/projects/vaamos.md)
 - [Play Manao](docs/projects/playmanao.md)
