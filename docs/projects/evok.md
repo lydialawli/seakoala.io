@@ -71,3 +71,11 @@ I am currently testing Flutter to see if it makes sense to change framework as i
 ---
 
 link to the github repo [here](https://github.com/lydialawli/Evok)
+
+---
+  
+<div style="text-align: center;">
+
+[Contact 🐨](docs/aboutLy.md) for any questions or feedback 😍 
+
+</div>

@@ -4,7 +4,7 @@ _Jan 2022_
 
 ![voucher-detail](assets/voucher-detail_page.png)
 
-![voucher-wizzard](assets/voucher-wizzard-01.png)
+![voucher-wizzard](assets/Voucher-wizzard-01.png)
 
 ![voucher-redeem](assets/voucher-redeem.png)
 
@@ -18,7 +18,7 @@ This is an in-house/internal tool so unfortunately it is not open to the public.
 
 ## Context
 
-I was assigned the task to design the web app from scratch which would facilitate the job for other departments such as Customer Service.  
+I was assigned the task to **design and code** the web app from scratch which would facilitate the job for other departments such as Customer Service.  
 Throughout the design sprint; I collaborated closely with the Business Owner to get all the stakeholders requirements fulfilled.
 
 ## Stack

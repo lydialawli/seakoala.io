@@ -17,7 +17,7 @@ It let's the user report a problem regarding the store they interact with.
 
 _From May to late Dec 2023_
 
-I joined the team as a react native developer. This was my last task and I had the chance to also take part on the design.  
+I joined the team as a **react native developer**. This was my last task and I had the chance to also take part on the **design**.  
 I had the freedom to play around with different UI/UX, so long I respected the design system in place.  
 
 ## Stack
