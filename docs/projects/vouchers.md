@@ -31,3 +31,11 @@ The frontend code was built in:
 - MaterialUI
 - Typescript
 - GraphQL
+
+---
+  
+<div style="text-align: center;">
+
+[Contact 🐨](docs/aboutLy.md) for any questions or feedback 😍 
+
+</div>

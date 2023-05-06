@@ -42,3 +42,9 @@ The idea is there will be the ability to create one's own game. The platform wou
 Be a **player** or a **creator**. Join the community by making your own game or sharing the ones you like to play!
 
 ---
+
+<div style="text-align: center;">
+
+[Contact 🐨](docs/aboutLy.md) for any questions or feedback 😍 
+
+</div>

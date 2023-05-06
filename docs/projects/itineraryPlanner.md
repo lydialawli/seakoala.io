@@ -31,3 +31,11 @@ The design was not the most relevant but I still had fun making it look pretty a
 - React
 - Material-UI
 - React Redux
+
+---
+  
+<div style="text-align: center;">
+
+[Contact 🐨](docs/aboutLy.md) for any questions or feedback 😍 
+
+</div>

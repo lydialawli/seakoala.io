@@ -47,3 +47,11 @@ In a nutshell:
 - **Typescript** language
 - **TailwindCSS** for UI
 - **Firebase/Firestore** for database and hosting
+
+---
+  
+<div style="text-align: center;">
+
+[Contact 🐨](docs/aboutLy.md) for any questions or feedback 😍 
+
+</div>

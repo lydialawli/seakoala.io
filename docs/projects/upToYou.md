@@ -60,3 +60,11 @@ But currently working on [Evok](https://github.com/lydialawli/Evok), my next mob
 ---
 
 Link to the github repo [here](https://github.com/lydialawli/up-to-you)
+
+---
+  
+<div style="text-align: center;">
+
+[Contact 🐨](docs/aboutLy.md) for any questions or feedback 😍 
+
+</div>

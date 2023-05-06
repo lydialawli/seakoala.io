@@ -4,7 +4,7 @@
 
 ---
 
-Funnily, if you ask almost anyone on this planet "What is AI? what is Artificial Intelligence?", most of them will have an accurate subjective answer, whether it's in actual technical truth, or as an abstract perspective. Some know one part, other's know other parts, and some others even might know both... Whichever part it is, everyone can apparently grasp a minimum understanding of what AI should be or is. 
+Funnily, if you ask almost anyone on this planet "What is AI? what is Artificial Intelligence?", most of them will have an accurate subjective answer, whether it's in actual technical truth, or as an abstract perspective. Some know one part, other's know other parts, and some others even might know both... Whichever part it is, everyone can apparently grasp a minimum understanding of what AI should be or is.
 The hows of why they might know it, or think that they do is through the influence of other people, like parents, friends or through entertainment stuff like TV, comics, articles, the CypherPunks, books!...
 And all of them seem to speak about the truth!
 

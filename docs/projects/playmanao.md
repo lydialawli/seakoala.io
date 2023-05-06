@@ -72,3 +72,11 @@ A positive sum game for both the creators of the games and the local communities
 --- -->
 
 Link to the github repo [here](https://github.com/lydialawli/manao-ionic/)
+
+---
+  
+<div style="text-align: center;">
+
+[Contact 🐨](docs/aboutLy.md) for any questions or feedback 😍 
+
+</div>

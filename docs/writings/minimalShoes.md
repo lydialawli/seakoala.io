@@ -88,6 +88,6 @@ Here is a picture of the recent workshop hosted in the beautiful Nowhere fest.
   
 <div style="text-align: center;">
 
-[Contact 🐨](docs/contact.md) for any questions or feedback 😍
+[Contact 🐨](docs/aboutLy.md) for any questions or feedback 😍
 
 </div>

@@ -24,3 +24,11 @@ For personal reasons, we abandoned the project after the development had started
 
 - brainstorm and kickstart the project
 - the design (logo and the UI) in Figma.
+
+---
+  
+<div style="text-align: center;">
+
+[Contact 🐨](docs/aboutLy.md) for any questions or feedback 😍 
+
+</div>

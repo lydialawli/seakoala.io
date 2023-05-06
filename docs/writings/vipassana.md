@@ -52,6 +52,6 @@ IE. The technique does not teach you to follow any specific god or belief, it re
   
 <div style="text-align: center;">
 
-[Contact 🐨](docs/contact.md) for any questions or feedback 😍 
+[Contact 🐨](docs/aboutLy.md) for any questions or feedback 😍 
 
 </div>

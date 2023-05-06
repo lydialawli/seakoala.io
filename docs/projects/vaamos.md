@@ -29,3 +29,11 @@ App was never officially published but had a working MVP available.
 - **Dart** language
 - **json**
 - **Figma** for prototyping and designing
+
+---
+  
+<div style="text-align: center;">
+
+[Contact 🐨](docs/aboutLy.md) for any questions or feedback 😍 
+
+</div>
