@@ -11,7 +11,17 @@ _Nov 2023_
 ## What does this do?
 
 This is a new feature incorporated in one of the main screens in the Vytal app.
-It let's the user report a problem regarding the store they interact with.
+It lets the user report a problem regarding the store they interact with.
+
+## Design process
+
+Style wise; there was already an existing design system in place so there wasn't much for me to do there.
+In fact, it was very helpful to have that ready so that it allowed me to dive into UX right away.  
+
+My task was to understand what the requirement was, come up with the possible report types and design the process to be as easy and straight forward for the user as possible.  
+Things like "should I use a modal or an entire screen?" was asked.  
+
+All in all, despite being a small task, I still enjoyed the challenge and being able to shape this feature with advice from other teammates.
 
 ## Ly at Vytal
 

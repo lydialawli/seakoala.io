@@ -14,7 +14,7 @@ Creative tool to encourage you to practice your artistic skills consistently.
 
 Ability to upload and view other’s representations.
 
-## Context
+## Concept context
 
 I had the need for a daily drawing exercise so I decided to build an app to get myself and friends to join the fun ensemble + to keep testing and improving my coding and design skills.
 
@@ -25,6 +25,11 @@ What I learned so far is how to use Firebase tools:
 - test and deploy the app production ready
 
 There’s still a lot to do before publishing the app (authentication feature and rules, fix some 🐞...) but feel free to play around and please let me know if you have any feedback!
+
+## Design process
+
+I was aiming for a modern, playful and out-of-the-box feel. Close to breaking the design principles but not quite.  
+I focused mainly on the mobile screen and readjusted the web view from there.
 
 ## Up next
 

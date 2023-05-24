@@ -19,7 +19,27 @@ Built by two young developers (me and Monica) as their final project to graduate
 
 Having 3 weeks to come up with an MVP, Play Manao was developed quite rapidly with two final games ready to be played, both within the island of Samui, Thailand (since the school was located there).
 
-Since we are both based in Catalunya, we will first target users in Barcelona and all this northern area, creatng games based on this locations.
+Since we are both based in Catalunya, we will first target users in Barcelona and all this northern area, creating games based on this locations.
+
+## App features/screens
+
+- Signup/login screen
+- Onboarding screen
+- Profile screen: user can see all the games they've played, the points they've gained so far and where they can edit their personal info.
+- Main screen: a list of all existing games as cards and a filtering section
+- Game Detail screen: information about each specific game (tags, description, price, duration, length...) and the ability to start the game from here.
+- Game Play screen: the game screen itself which is build by a series of steps/questions that the user resolves to unlock to the next step, up until the game is finished.
+
+## Design process
+
+The initial image served as the basis for the MVP creation process.  
+With a focus on modern and playful design, I drew upon inspiration from video games to achieve the desired aesthetic. 
+
+Crafting features such as signup/login, onboarding, and the main page presented little challenge.   
+However, the Game Play screen proved to be more difficult as there were no comparable apps to draw from. 
+
+Given the limited timeline, we opted for a simplistic design that would make both development and app usage easier.   
+Each challenge involved answering a question, followed by a hint modal, input field, validation component, and a button to progress to the next stage.
 
 ## What does the name mean?
 
