@@ -1,3 +1,16 @@
+### Sam el Caganer
+
+![caganerSam](../images/caganer-sam.png)
+22-12-2022
+
+---
+### Seakoala on fire
+
+![seakoalaOnFire](../images/seakoala-onfire.png)
+-5-2022
+
+---
+
 ### *RAW* collection #8: Gat i Gos
 
 ![gatIGos](../images/gat-i-gos.png)
@@ -47,7 +60,9 @@
 
 ### *RAW* collection #2: Winnie the Pooh
 
-<!-- ![RickAndMorty](../images/rick&morty.png)     -->
+![winniePoohlight](../images/poo-light.png)
+![winniePoohdark](../images/poo-dark.png)
+![winniePoohtwice](../images/poo-twice.png)
 17-3-2022
 
 ---
