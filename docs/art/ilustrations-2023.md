@@ -7,7 +7,7 @@
 ---
 ### Pull my finger
 
-![pull-finger](../images/pull-finger.png)
+![pull-finger](../images/pull-finger.PNG)
 
 5-6-2023
 
@@ -15,12 +15,7 @@
 
 ### Kick Ass
 
-<img src="docs/images/kick-ass.GIF"
-     alt="kick-ass"
-     style="height: 80%; width: 80%;
-     float: center;
-     border-radius: 50%;"
-     />
+![kickass](../images/kickass.GIF)
 
 6-5-2023
 
@@ -65,11 +60,11 @@
 29-54-2023
 
 ---
-### Sunset dip
+### Farticles: Deck of Cards
 
-![sunsetDip](../images/sunset-dip.JPG)
+![farticles](../images/farticles.jpg)
 
-29-54-2023
+28-5-2023
 
 ---
 
@@ -77,7 +72,7 @@
 
 ![scribble-gustav](../images/scribble-gustav.PNG)
 
-date
+28-3-2020
 
 ---
 
@@ -85,7 +80,7 @@ date
 
 ![scribble-sophia-sis](../images/sophia-sis.PNG)
 
-date
+15-3-2020
 
 ---
 
@@ -93,7 +88,7 @@ date
 
 ![scribble-mr-john](../images/mr-john.PNG)
 
-date
+9-3-2023
 
 ---
 
@@ -101,7 +96,7 @@ date
 
 ![scribble-giulia](../images/scribble-giulia.jpg)
 
-date  
+19-2-2023  
 Pen on paper
 ---
 
@@ -110,7 +105,7 @@ Pen on paper
 
 ![scribble-xa](../images/scribble-xa.PNG)
 
-date  
+19-2-2023  
 Pen on paper
 ---
 
