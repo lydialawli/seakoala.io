@@ -15,8 +15,7 @@
 
 ### Kick Ass
 
-![kickass](../images/kickass.GIF)
-
+![kickass](../images/kickass.gif)
 6-5-2023
 
 ---
@@ -39,7 +38,7 @@
 
 ### Stellar Seer
 
-![StellarSeer](../images/StellarSeer.png)
+![StellarSeer](../images/StellarSeer.PNG)
 
 29-54-2023
 
@@ -47,7 +46,7 @@
 
 ### the-jungle
 
-![the-jungle](../images/the-jungle.png)
+![the-jungle](../images/the-jungle.PNG)
 
 29-54-2023
 
@@ -103,7 +102,7 @@ Pen on paper
 
 ### Scribble Xa
 
-![scribble-xa](../images/scribble-xa.PNG)
+![scribble-xa](../images/scribble-xa.jpg)
 
 19-2-2023  
 Pen on paper
