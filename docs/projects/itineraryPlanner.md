@@ -13,18 +13,17 @@ _Feb 2022_
 
 ## What does this do?
 
-- Display a list of containers currently in the bike stock
-- Display a list of stores, showing:
-    - if a store has already been visited
-    - the store's containers stock
-- feature allow transferring containers between bike stock and store stock
-- Select one or multiple containers to transfer
+With this app, you can efficiently manage your bike container inventory by displaying a complete list of containers currently in stock. Additionally, you can monitor the stock available in stores and easily track which locations have been visited.
+
+You can find one advanced functionality which allows you to transfer containers between the bike stock and store stock, making it easier to manage inventory across all locations. Simply select one or multiple containers, and transfer them with ease. Keep track of your inventory on the go and streamline your operations with this user-friendly app.
 
 ## Context
 
-This was Vytal's entry code challenge for a frontend position.  
-The design was not the most relevant but I still had fun making it look pretty and usable.
+I applied for Vytal's frontend role on February 2022 and this was the entry code challenge.  
+It took me roughly 3 days to complete.   
+Although the design wasn't the primary focus, I enjoyed making it visually appealing and functional.
 
+After this code challenge and several more meetings I was hired! 🎉
 ## Tech stack
 
 - Typescript
