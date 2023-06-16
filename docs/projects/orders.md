@@ -18,9 +18,12 @@ This is an in-house/internal tool so unfortunately it is not open to the public.
 
 ## Context
 
-I was assigned the task to design and program the web app from scratch which would facilitate the job for other departments such as Customer Service.  
-Throughout the design sprint; I collaborated closely with the Business Owner to get all the stakeholders requirements fulfilled.
+I was assigned the task to design and program the web app from scratch which would facilitate the job for other departments such as Customer Service.
+Most of the features were already existing for some years but in a monolithic app. The old design was very different and 
 
+## Design phase
+
+Here's were I started working on this project; once the requirements were set by the stakeholders and business owner, it was then my responsibility to 
 ## Stack
 
 The designs (the ones you can see up here) are made in **Figma**.
