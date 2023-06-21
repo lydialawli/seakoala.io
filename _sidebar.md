@@ -4,13 +4,13 @@
 
 ### Illustrations
 
-- [2023](docs/art/ilustrations-2023.md)
-- [2022](docs/art/ilustrations-2022.md)
-- [2021](docs/art/ilustrations-2021.md)
-- [2020](docs/art/ilustrations-2020.md)
-- [2019](docs/art/ilustrations-2019.md)
-- [2018](docs/art/ilustrations-2018.md)
-- [2017](docs/art/ilustrations-2017.md)
+- [2023](ilustrations/2023.md)
+- [2022](ilustrations/2022.md)
+- [2021](ilustrations/2021.md)
+- [2020](ilustrations/2020.md)
+- [2019](ilustrations/2019.md)
+- [2018](ilustrations/2018.md)
+- [2017](ilustrations/2017.md)
 
 ### Live work
 
