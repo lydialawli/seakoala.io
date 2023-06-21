@@ -8,28 +8,17 @@ https://draw3words.web.app/
 
 ## What does this do?
 
-Creative tool to encourage you to practice your artistic skills consistently.
-
-3 words each day that allows you to sketch quickly and share it to the community.
-
-Ability to upload and view other’s representations.
+Various artistic prompts to spark creativity.
 
 ## Concept context
 
-I had the need for a daily drawing exercise so I decided to build an app to get myself and friends to join the fun ensemble + to keep testing and improving my coding and design skills.
-
-What I learned so far is how to use Firebase tools:
-
-- how to CRUD on Firestore database
-- use Cloud Storage
-- test and deploy the app production ready
-
-There’s still a lot to do before publishing the app (authentication feature and rules, fix some 🐞...) but feel free to play around and please let me know if you have any feedback!
+I had the need for a daily drawing exercise so I decided to build an app to get myself and friends to join the fun To enhance my daily drawing skills and challenge my coding and design abilities, I created an app to engage me and my friends in the fun activity. In the process, I learned how to utilize Firebase tools such as Firestore database CRUD operations, Cloud Storage, and app deployment. Although there are technical aspects to perfect, such as the authentication feature and error resolution, I am excited to continue honing my skills. Please test the app and share your feedback.
 
 ## Design process
 
-I was aiming for a modern, playful and out-of-the-box feel. Close to breaking the design principles but not quite.  
-I focused mainly on the mobile screen and readjusted the web view from there.
+My objective was to create a dynamic and innovative atmosphere, while still adhering to design principles. I strived for a contemporary and whimsical aesthetic that stretched the limits, yet remained grounded.
+
+I concentrated primarily on the mobile interface, utilizing it as the foundation for the web view.
 
 ## Up next
 
