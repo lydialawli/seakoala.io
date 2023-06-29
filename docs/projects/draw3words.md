@@ -1,4 +1,4 @@
-# Draw 3 Words - Creative art prompting and sharing (WIP)
+# Draw 3 Words - Art prompting tool (WIP)
 
 _April 2023_
 

@@ -14,7 +14,7 @@ Passionate web/mobile app developer (stronger skill is in Frontend and in UI/UX 
 
 Learning Thai Yoga Massage since 2023.
 
-Fan of rock climbing, running, creative self-expression (visual art and movement) and making weird and not so weird stuff.
+Fan of rock climbing, running, creative self-expression (visual art and movement) and making weird and not so weird stuff.  
 
 ## Contact or follow Ly
 
